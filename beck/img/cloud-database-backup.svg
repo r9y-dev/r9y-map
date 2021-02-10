@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 621.2 1728 1728" enable-background="new 0 621.2 1728 1728" xml:space="preserve">
+<g id="cloud-assets" display="none">
+	<path display="inline" opacity="0.5" fill="#607D8B" enable-background="new    " d="M1372.1,946.1H371.3
+		c-61.6,0-111.2,49.6-111.2,111.2v667.2c0,61.6,49.6,111.2,111.2,111.2h388.4V1947H650.1v111.2H1095V1947H983.8v-111.2h388.4
+		c61.6,0,111.2-49.6,111.2-111.2v-667.2C1483.3,997.5,1433.7,946.1,1372.1,946.1z M1372.1,1724.6H371.3v-667.2h1000.9V1724.6z"/>
+</g>
+<g id="cloud-backup" display="none">
+	<path display="inline" opacity="0.5" fill="#607D8B" enable-background="new    " d="M927.8,1059.2c-229.3,0-414,184.8-414,414
+		H375.2L560,1656.3l184.8-184.8H606.2c0-177.9,143.7-321.6,321.6-321.6s321.6,143.7,321.6,321.6s-143.7,321.6-321.6,321.6
+		c-70.1,0-133.4-22.2-186.5-59.9l-65,66.7c70.1,53,157.4,85.5,251.5,85.5c229.3,0,414-184.8,414-414S1155.4,1059.2,927.8,1059.2z"/>
+</g>
+<g id="cloud-database-backup">
+	<path opacity="0.5" fill="#607D8B" d="M1470.2,874.4H246.9l0,0V2096l0,0h1223.3l0,0V874.4L1470.2,874.4z M927.8,1885.6
+		c-94.1,0-181.4-32.5-251.5-85.5l65-66.7c53,37.6,116.3,59.9,186.5,59.9c177.9,0,321.6-143.7,321.6-321.6s-143.7-321.6-321.6-321.6
+		s-321.6,143.7-321.6,321.6h138.6L560,1656.3l-184.8-183.1h138.6c0-229.3,184.8-414,414-414c227.5,0,414,183.1,414,412.3
+		S1157.1,1885.6,927.8,1885.6z"/>
+</g>
+<g id="cloud-database" display="none">
+	<g display="inline" opacity="0.5">
+		<g>
+			<path id="SVGID_1_" fill="#607D8B" d="M926.1,1553.6h203.6v203.6H926.1V1553.6z M926.1,1214.9h203.6v203.6H926.1V1214.9z
+				 M587.4,1553.6H791v203.6H587.4V1553.6z M587.4,1214.9H791v203.6H587.4V1214.9z M450.5,1079.7v814.4h814.4v-814.4H450.5z
+				 M246.9,874.4h1223.3V2096H246.9V874.4z"/>
+		</g>
+	</g>
+</g>
+</svg>
