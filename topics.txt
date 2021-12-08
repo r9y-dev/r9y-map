@@ -1,0 +1,212 @@
+Local Development
+Monolith
+Code Review
+Pre Merge Hooks
+Active Passive Clusters
+Microservices
+Leftshift Reliability Design
+Graceful Service Degradation (Individual CUJs)
+Left Shift Performance Testing
+Graceful Service Degradation (Universal)
+Bounded Context
+Protobufs
+
+Smoke Tests
+Automated Unit Testing
+Multi Service Development
+Distributed Systems Awareness
+Deployments in Place
+Feature Flags
+Active Active Multi Cluster
+Basic Chaos Testing
+Serious Design/Domain Driven Design
+Design Around Universal Failure Domains
+Sharded Data
+
+Manual Tests
+Code Version Control
+functional tests
+semi automated integration
+Data versioning
+traffic shifting
+instrumentation for in process traces
+Backwards Version Compatibility by default
+Canary Deployments
+Left Shift QA testing (SDET)
+E2E testing
+Multi Cluster Rollout Policy
+Universal Smart Retries
+Sharded Serving
+
+manual integration tests
+regular release cadence
+containers
+Blue Green Deployments
+Fuzz Testing
+Distributed systems (no active/passive)
+Automatic assured capacity and performance testing
+andon cord/big red button
+Code Quality Threshold (code reuse preferred)
+
+Low Context Architecture
+Language Readability
+Only customize components needing customization
+
+Design for Chaos
+Formal methods (e.g. TLA+)
+
+Local data storage
+Single Zone
+DNS / SImple LB
+Basic linear capacity projection
+Advanced Loadbalancing
+IaC
+Understand Infrastructure Failure Domains
+Auto Failover
+Failure Testing in Prod
+N+1 as standard
+N+2 Thinking
+N+2 Global Planning
+
+Pet Host
+1+ computer
+distributed storage
+alternate site replication
+Cattle Infrastructure
+Container Orchestrator
+Auto Scaling
+Eliminate SPOFs (hardware & software)
+Service Discovery
+Drain/Spill (N/S & E/W)
+
+Basic Loadtesting
+Multi Zone
+Holtz-Winter capacity projections
+Failure Injection
+N+1 Regional Planning
+L7 Global LB
+
+High Water Mark Prediction
+Assured Capacity Load Testing
+Real World Traffic Load Testing
+L4 Regional Load Balancing
+
+Multi Region
+
+Off-host backup
+RPO/RTO defined
+DR Plan
+RPO/RTO refined
+DR plan simulated/tabletop
+DR plan tested periodically
+Continuous Integration
+Continuous Delivery
+Regular BCP Testing (run from alternate site)
+% Based Traffic Steering
+Active Active Datastores
+Internal Rate Limiting
+Autonomous Response Systems
+Automatic Rollbacks
+
+Manually created machines
+Manual VM Images
+Custom VMs via semi-automation
+ITIL style NOC
+DR Site Exists
+Manual remediation playbooks
+Formal Incident Response Roles
+Formal Incident Response Processes
+Rollbacks/Rollforwards tested
+Continuous Deployment
+External Rate Limiting
+Centralized Production Changelog
+Proactive DDoS Countermeasures
+Load Prediction
+
+Manual Remediation
+Scheduled Downtime
+Basic Incident Management
+Repeatable Deployments
+Automation of Toil
+Problem Management Function
+Dedicated Operations Tooling
+Automated Service Discovery
+Data Collection Automation
+Mostly Automated Remediation
+
+Patching Windows
+Gold Image Automation
+Central Certificate Rotation
+Breakglass Secret Access
+Global Policy Enforcement
+Vanilla DDoS Protection
+DiRT Testing
+
+Product Specific DDoS Protection (e.g. WAF)
+
+Host Metrics and Logging
+Per Host Alarms
+Host Ping Tests
+Synthetic Monitoring
+APM Metrics and Traces
+Internal SLAs
+Error Budgets
+Custom In Process Tracing
+Cross Service Transaction Testing
+"Multi Machine Debugging
+Anomaly Detection
+Observability Integration Across Tools
+
+On host log grep
+SSH to Grep Logs
+Centralized Log Collection
+Realtime Centralized Log Analytics
+Automated Topology View
+Service Level Indicators (SLI)
+Record and Replay Traffic
+Advanced Vizualizations (heatmaps)
+Near Miss Detection
+
+Service Level Objectives (SLO)
+Event Correlation
+
+High Context Behaviours
+RCA/5 Whys
+Incentivise trust/safety
+Understand Business Impacts
+Blameless Postmortems
+Postmortem reviews/actions
+Single Central CAB
+Holistic View of R9y as high value
+Reliability Executive/Sponsor exists
+Reliability has a seat at the table
+R9y is a product differentiator
+R9y can stop feature launch
+Proactive Risk and Scaling Analysis
+
+Managing pet configuration drift
+Measure Everything
+Data Driven Decisions
+Service Ownership
+Incentivise cross silo collaboration
+Dedicated R9y staffing
+Change Freezes
+Vertical Scale is an Antipattern
+SRE SWE roles introduced
+Empowered R9y staff
+R9y Embedded in High Level Strategy and Operations
+Advanced Cost Optimization
+Focus on prevention and near misses instead of outages
+
+TODO Lists
+Waterfall Projects/PMO
+SMART Goals
+Goals -> Objectives (OKRs)
+Architecture Reviews
+High Performing Staff (Promotion and Hiring)
+Reactive Risk Analysis
+Basic Cost Optimisation
+
+Introducing Dedicated SREs
+Toil Budgets
+Decreased Reliance on 3rd party SaaS
