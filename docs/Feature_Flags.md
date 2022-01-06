@@ -1,28 +1,13 @@
-# Topic Name
+# Feature Flags -> Feature Toggles
 
-Foo the Bar
+## Development-Reactive
 
-## Era
+Description:  Logically separating features from releases. This allows a release to be deployed on a separate schedule from the enablement of a feature or product release. https://en.wikipedia.org/wiki/Feature_toggle 
 
-Reactive
+Related Products: none
 
-## Lane
+Prerequisites: none
 
-Observability
+Next: Backwards version compatibility by default, Continuous Deployment
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:  Dark Launch, Blue/Green Releases

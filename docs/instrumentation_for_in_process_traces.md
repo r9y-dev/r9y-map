@@ -1,28 +1,15 @@
-# Topic Name
+# Instrumentation for in process traces [Advanced Tracing]
 
-Foo the Bar
+## Development-Reactive
 
-## Era
+- overlaps with o11y track “custom in process tracing”
 
-Reactive
+Description: Exposing calls to the tracing system from within the running process(es), providing visibility inside of a service by instrumentation in code
 
-## Lane
+Related Products: Cloud trace, lightstep, honeycomb
 
-Observability
+Prerequisites: APM metrics and traces
 
-## Description
+Next:
 
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

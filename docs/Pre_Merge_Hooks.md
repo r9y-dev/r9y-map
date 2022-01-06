@@ -1,28 +1,21 @@
-# Topic Name
-
-Foo the Bar
-
-## Era
-
-Reactive
-
-## Lane
-
-Observability
+# Pre-Merge Hooks
 
 ## Description
 
-lorus ipsum
+The ability to write a program that checks a PR before merging it or allowing it to be submitted to a production repository.
 
 ### Related Products
 
-- foo
-- bar
+- Git, Anthos Config Management (ACM), Cloud Build, GitLab, Azure DevOps, Jenkins
 
-### Predicates
+### Prerequisites
 
-- Pottery
+- Code Review (which relies on Version Control)
 
-### Unlocks
+### Next
 
-- N+2 Thinking
+- CI, IaC, GitOps, Deployments In Place
+
+### Related Terms
+
+- Presubmit Checks, Pre-Merge Hooks, CI, Unit Tests

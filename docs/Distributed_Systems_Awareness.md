@@ -1,28 +1,11 @@
-# Topic Name
+# Distributed Systems Awareness
 
-Foo the Bar
+Description:  Before building a distributed system, teams need to be aware that there are some fundamental differences from running on a single machine (eg "it works on my laptop"). Knowing that RPC calls involve remote machines over an unreliable network. eg: awareness of The Fallacies of distributed computing.
 
-## Era
+Related Products
 
-Reactive
+Prerequisites:  RPCs, Networking
 
-## Lane
+Next:  Distributed Consensus, CAP Theory, gRPC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: Protobufs

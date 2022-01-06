@@ -1,28 +1,11 @@
-# Topic Name
+# Active Passive Clusters
 
-Foo the Bar
+An architecture that provides two "stacks" of services wherein if one stack fails, the other can be quickly used.  Expectation is that the two stacks do not share basic failure domains, as both failing together would not be helpful.  This can either be via an automatic or manual trigger of failover, but mostly automated process.
 
-## Era
+Related Products: VCS, MS Failover Cluster, Oracle RAC, VMware HA
 
-Reactive
+Prerequisites: Distributed Systems Awareness, DNS/Simple LB
 
-## Lane
+Next: Active-Active Clusters
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: Data Replication

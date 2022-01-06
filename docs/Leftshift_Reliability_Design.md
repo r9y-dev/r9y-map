@@ -1,28 +1,13 @@
-# Topic Name
+# Leftshift Reliability Design
 
-Foo the Bar
+## Development-Proactive
 
-## Era
+Description: Undertaking design and architecture work related to non functional requirements such as reliability, during the development process instead of post feature design (not bolted-on afterwards)
 
-Reactive
+Related Products, SDLC, TOGAF, SAFe
 
-## Lane
+Prerequisites:
 
-Observability
+Next: Graceful Service Degradation, Left Shift Performance Testing, Left Shift QA
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

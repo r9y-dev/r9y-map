@@ -1,28 +1,13 @@
-# Topic Name
+# Deployments in Place
 
-Foo the Bar
+## Development-Reactive
 
-## Era
+Description:  Upgrading a server by pushing new code onto a running system.  Having an automated procedure for deploying code to an existing, running platform.  Pushing a new version of software is reasonably straightforward as long as tests pass.  This should not involve a human copying tar files onto servers manually.
 
-Reactive
+Related Products: none
 
-## Lane
+Prerequisites: none
 
-Observability
+Next: Immutable Infrastructure, Blue/Green Deployments, Canary Deployments
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: IAC
