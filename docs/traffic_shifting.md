@@ -1,28 +1,10 @@
-# Topic Name
+# Traffic Shifting (maybe later than microservices?)
 
-Foo the Bar
+## Development-Reactive
 
-## Era
+Description: The ability to move incoming requests to a new backend.  The ability to migrate traffic from one (micro)service to another.
 
-Reactive
-
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Products
+Prerequisites:  Microservices, Loadbalancing
+Next: Blue/Green, Canary
+Related Terms:  
