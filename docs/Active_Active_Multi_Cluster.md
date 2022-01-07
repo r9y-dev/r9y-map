@@ -1,28 +1,12 @@
-# Topic Name
+# Active-Active Multi Cluster (Active-Active Stacks Monolith-style)
 
-Foo the Bar
+An architecture that provides two (or more?) "stacks" of services, each of which are constantly in-use during normal operation. Now, if one stack fails, the others can immediately take the load of the failed stack, as they're already in place.
+Due to this, stacks need to be provisioned in a way that sufficient capacity is in place to handle the potential failure of the largest stack.  Also data must be replicated between stacks to ensure the surviving stack can pick up transactions left behind by the failed stack.  
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites:  N+1, Active-Passive, Synchronous Replication
 
-## Lane
+Next:  Distributed systems (no active/passive)
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: N+2 capacity planning, microservices, RTO/RPO
