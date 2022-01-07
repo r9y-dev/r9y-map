@@ -1,28 +1,11 @@
-# Topic Name
+# Left Shift Performance Testing
 
-Foo the Bar
+Including load tests and capacity assurance tests into the automated CI/CD pipeline to ensure capacity plans are still valid for new builds.
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: CI, Basic Load Testing, Basic Capacity Planning
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
