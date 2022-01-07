@@ -1,28 +1,11 @@
-# Topic Name
+# Blue Green Deployments
 
-Foo the Bar
+By deploying to two (blue, green) separated but identically-configured infrastructure environments, teams can alternate their deployments so they serve from one while updating the other.  This can be thought of as having a hot-standby during a release.  It requires the ability to change traffic patterns and data consistency between the two platforms must also be considered.
 
-## Era
+Related Products: Spinnaker, Cloud Deploy, kf
 
-Reactive
+Prerequisites: CI, traffic shifting, auto scaling, assured capacity load testing
 
-## Lane
+Next: Canary Releases
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: Immutable Infrastructure
