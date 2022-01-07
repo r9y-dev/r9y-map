@@ -1,28 +1,11 @@
-# Topic Name
+# Graceful Service Degradation (Individual CUJs)
 
-Foo the Bar
+Ensuring non-critical components of a system fail without taking down the entire system.  For example, if an ecommerce system loses the ability to checkout, you should still be able to search / browse products and keep a full shopping cart without the whole site becoming unavailable.
 
-## Era
+Related Products: none
 
-Reactive
+Prerequisites: Leftshift Reliability Design, Microservices
 
-## Lane
+Next: Chaos Testing, Graceful Service Degradation (Universal), Failure Testing in Prod
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: Microservices, SLOs, Deadline Propagation
