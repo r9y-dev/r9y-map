@@ -1,28 +1,11 @@
-# Topic Name
+# Fuzz Testing
 
-Foo the Bar
+An automated testing technique that attempts to find software bugs by randomly feeding invalid and unexpected inputs and data into a computer program in order to find coding errors and security loopholes. This differs/extends from unit/integration tests which typically target correct functionality
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
