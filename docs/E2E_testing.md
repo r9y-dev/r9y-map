@@ -1,28 +1,11 @@
-# Topic Name
+# E2E testing
 
-Foo the Bar
+Automated testing of the entire system, across multiple services. This includes all dependencies and environments.  Testing flows as a user would use them to ensure the components all interact with each other properly.
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: Continuous Delivery (or is this a dependency 🤔)
 
-## Lane
+Next:TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
