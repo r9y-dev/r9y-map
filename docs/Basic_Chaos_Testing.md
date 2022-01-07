@@ -1,28 +1,11 @@
-# Topic Name
+# Basic Chaos Testing
 
-Foo the Bar
+Chaos testing/engineering, is testing a system's integrity by proactively simulating and identifying failures in a given environment before they lead to unplanned downtime or a negative user experience.  Initially done by just shutting off small parts of production and observing the outcome.
 
-## Era
+Related Products: Simian Army / Chaos Monkey, Gremlin
 
-Reactive
+Prerequisites: Active/Active, DR Testing
 
-## Lane
+Next: Design for Chaos, Mostly-Automated Remediation
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: DiRT, Fault Injection, Circuit Breakers
