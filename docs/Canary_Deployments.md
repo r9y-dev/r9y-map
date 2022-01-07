@@ -1,28 +1,13 @@
-# Topic Name
+# Canary Deployments
 
-Foo the Bar
+A canary rollout is a deployment strategy where the operator releases a new version of their application to a small percentage of the production traffic. 
+https://martinfowler.com/bliki/CanaryRelease.html 
+https://sre.google/workbook/canarying-releases/ 
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: CI, Version Compatibility, Percent-based Traffic Steering
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: Continuous Delivery, Blue/Green Deployment, Autoscaling, IaC
