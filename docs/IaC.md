@@ -1,28 +1,11 @@
-# Topic Name
+# IaC Infrastructure as Code
 
-Foo the Bar
+Infrastructure as code [IaC](https://en.wikipedia.org/wiki/Infrastructure_as_code) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC
