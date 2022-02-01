@@ -1,28 +1,11 @@
-# Topic Name
+# Advanced Loadbalancing - consider renaming to "dynamic"?
 
-Foo the Bar
+[Load balancer](https://en.wikipedia.org/wiki/Load_balancing_(computing)) or [Application Delivery Controller](https://en.wikipedia.org/wiki/Application_delivery_controller) with dynamic functionality based on incoming factors (e.g. traffic, message headers) and system status (e.g. backend health checks, capacity limits)
 
-## Era
+Related Products: Cloud Load Balancer, F5/NGINX, ELB
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms:
