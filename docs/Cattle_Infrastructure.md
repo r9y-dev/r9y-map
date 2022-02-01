@@ -1,28 +1,11 @@
-# Topic Name
+# Cattle Infrastructure
 
-Foo the Bar
+Use of the [pets vs cattle paradigm](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/), individual servers are designed for failure and treated as replaceable rather than repairable
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC
