@@ -1,28 +1,11 @@
-# Topic Name
+# Alternate site replication
 
-Foo the Bar
+The abililty to maintain a replica of storage at one or more secondary locations, this can be synchronous or asynchronous depending on other requirements. Location separation doesn't need to be a set distance but at minimum needs to be separated by a failure domain (hall, zone, data center)
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC
