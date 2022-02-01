@@ -1,28 +1,11 @@
-# Topic Name
+# High water mark prediction
 
-Foo the Bar
+The ability to reasonably accurately predict the high water mark capacity for a system, i.e. the capacity beyond which it will stop or seriously degrade functioning
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC
