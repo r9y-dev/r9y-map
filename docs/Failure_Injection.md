@@ -1,28 +1,11 @@
-# Topic Name
+# Failure injection - rename fault injection?
 
-Foo the Bar
+[Fault injection](https://en.wikipedia.org/wiki/Fault_injection) 
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC
