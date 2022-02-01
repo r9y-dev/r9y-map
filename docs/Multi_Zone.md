@@ -1,28 +1,11 @@
-# Topic Name
+# Multi Zone
 
-Foo the Bar
+Systems are spread across more than one [compute zone](https://cloud.google.com/compute/docs/regions-zones) to reduce the risk of an infrastructure outage affecting all resources simultaneously
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC
