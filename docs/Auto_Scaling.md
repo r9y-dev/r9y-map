@@ -1,28 +1,11 @@
-# Topic Name
+# Auto Scaling
 
-Foo the Bar
+Automatic additional (and ideally reduction) in compute resources, typically via something like a Managed Instance Group [MIG](https://cloud.google.com/compute/docs/instance-groups), or Container Orchestrator such as Kubernetes
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: Cattle infrastructure
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC
