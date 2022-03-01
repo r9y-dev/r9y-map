@@ -1,28 +1,10 @@
-# Topic Name
+# Cross Service Transaction Testing
+Microservices tend to have distributed transactions which rely on multiple services being called in sequence. Each distributed data store affected by a transaction will need to have all changes applied or none (monolith transactions usually rely on a single database to ACID compliant. Testing the ACIDity of these services will usually require custom test routines.
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites: Microservices
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
