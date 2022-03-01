@@ -1,28 +1,10 @@
-# Topic Name
+# Vertical scale is an antipattern
+Horizontal (scale out, not scale up) deployments are considered the norm
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
