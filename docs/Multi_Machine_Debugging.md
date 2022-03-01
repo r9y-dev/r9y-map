@@ -1,28 +1,10 @@
-# Topic Name
+# Multi Machine Debugging
+Remote debugging across multiple instances or microservices. This can be done via a custom agent or sidecar, the essential outcome is removing the need to connect to individual instances
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: Multi agent debugging, remote debugging
