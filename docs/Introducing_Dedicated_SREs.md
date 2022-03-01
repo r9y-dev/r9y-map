@@ -1,28 +1,10 @@
-# Topic Name
+# Introducing dedicated SREs
+Dedicated reliability engineers who use SRE principles and practices (or equivalent e.g. DevOps)
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
