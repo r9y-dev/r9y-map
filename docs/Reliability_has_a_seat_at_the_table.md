@@ -1,28 +1,10 @@
-# Topic Name
+# Reliability has a seat at the table
+As described in the book: [seat at the table](https://itrevolution.com/a-seat-at-the-table-book) there is a recognition and active discussion of reliability in CxO level discussions
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
