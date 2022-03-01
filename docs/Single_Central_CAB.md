@@ -1,28 +1,10 @@
-# Topic Name
+# Single Central CAB
+A change advisory board is a way of mitigating risks associated with changes, the way the board operates [evolves](https://cloud.google.com/architecture/devops/devops-process-streamlining-change-approval) at higher reliability levels
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
