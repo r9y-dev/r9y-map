@@ -276,7 +276,7 @@
 
 - [Cross_Service_Transaction_Testing](Cross_Service_Transaction_Testing.md)
 
-- [_Multi_Machine_Debugging](_Multi_Machine_Debugging.md)
+- [Multi_Machine_Debugging](Multi_Machine_Debugging.md)
 
 - [Anomaly_Detection](Anomaly_Detection.md)
 
