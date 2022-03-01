@@ -1,28 +1,10 @@
-# Topic Name
+# Record and replay traffic 
+The ability to capture *production* traffic (e.g. via mirroring/shadowing), and replay at later/multiple dates to provide an authentic replica to test systems
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: not to be confused with "record and replay testing"
