@@ -1,28 +1,10 @@
-# Topic Name
+# Incentivise cross silo collaboration
+[Generative](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture) culture aspects which encourage cooperation despite local incentives
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
