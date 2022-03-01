@@ -1,28 +1,10 @@
-# Topic Name
+# Reactive risk analysis
+Risk analysis for previously encountered risks, [known unknowns](https://en.wikipedia.org/wiki/There_are_known_knowns) or [white swans](https://en.wikipedia.org/wiki/Black_swan_theory)
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
