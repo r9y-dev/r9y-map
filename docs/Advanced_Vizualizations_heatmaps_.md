@@ -1,28 +1,10 @@
-# Topic Name
+# Advanced Vizualizations
+Including but not limited to [heatmaps](https://en.wikipedia.org/wiki/Heat_map) and/or [flamegraphs](https://www.brendangregg.com/flamegraphs.html)
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
