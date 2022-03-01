@@ -1,28 +1,10 @@
-# Topic Name
+# Decreased reliance on third party SaaS
+Increasing amounts of the system are coded in house at higher reliability levels, this can exclude non-critical components and isn't meant to include IaaS
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
