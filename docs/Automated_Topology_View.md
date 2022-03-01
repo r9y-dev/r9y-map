@@ -1,28 +1,10 @@
-# Topic Name
+# Automated topology view
+The ability to build a (micro)service topology and connectivity view in an automated way (preferably with automated service discovery but not essential)
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
