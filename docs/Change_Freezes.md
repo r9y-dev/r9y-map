@@ -1,28 +1,10 @@
-# Topic Name
+# Change Freezes
+The ability to halt planned change to environments in a planned/scheduled way. This can also include "change chills" but shouldn't be confused with change windows.
 
-Foo the Bar
+Related Products: TBC
 
-## Era
+Prerequisites:  TBC
 
-Reactive
+Next: TBC
 
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
