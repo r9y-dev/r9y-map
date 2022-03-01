@@ -1,6 +1,5 @@
-# Topic Name
-
-Foo the Bar
+# Objectives preferred over goals
+Goals should evolve to be data driven and measurable, an OKR framework can be used but isn't mandatory. Outcomes should be prefered over inputs and tasks
 
 ## Era
 
