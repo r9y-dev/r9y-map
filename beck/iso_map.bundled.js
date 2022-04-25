@@ -5815,9 +5815,9 @@ const state = {
   mapId: undefined,
   mapLink: undefined,
   mapName: undefined,
-  zoomLevel: 0.4,
-  targetZoomLevel: 0.4,
-  preCujZoomLevel: 0.4,
+  zoomLevel: 0.5,
+  targetZoomLevel: 0.5,
+  preCujZoomLevel: 0.5,
   svgDoc: undefined,
 
   // CUJ Overlay Vars
@@ -5867,7 +5867,7 @@ const state = {
   isDragging: false,
 
   // Flatten Map
-  flattenMap: false,
+  flattenMap: true, // JB test change 
 
   // CHECKS TO SEE IF/WHEN CALLBACK HAPPENED - NEED TO FIX
   callBack: undefined,
