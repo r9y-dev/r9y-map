@@ -5815,7 +5815,7 @@ const state = {
   mapId: undefined,
   mapLink: undefined,
   mapName: undefined,
-  zoomLevel: 0.4,
+  zoomLevel: 0.3,
   targetZoomLevel: 0.5,
   preCujZoomLevel: 0.5,
   svgDoc: undefined,
