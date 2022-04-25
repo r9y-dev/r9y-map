@@ -5867,7 +5867,7 @@ const state = {
   isDragging: false,
 
   // Flatten Map
-  flattenMap: true, // JB test change 
+  flattenMap: false, // JB test change - rolled back
 
   // CHECKS TO SEE IF/WHEN CALLBACK HAPPENED - NEED TO FIX
   callBack: undefined,
