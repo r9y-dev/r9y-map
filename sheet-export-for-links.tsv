@@ -1,0 +1,214 @@
+Local Development	1	Development-Demo	Form			Page		No		../docs/Local_Development.html
+Monolith	2	Development-Demo	Form			Page		No	Smoke Tests, Manual Tests	../docs/Monolith.html
+Code Review	5	Development-Deterministic	Form			Page		No	Pre Merge Hooks	../docs/Code_Review.html
+Pre Merge Hooks	7	Development-Reactive	Form			Page		No		../docs/Pre_Merge_Hooks.html
+Active Passive Clusters	8	Development-Reactive	Form			Page		No	Active Active Multi Cluster	../docs/Active_Passive_Clusters.html
+Microservices	9	Development-Reactive	Form			Page		No		../docs/Microservices.html
+Leftshift Reliability Design	10	Development-Proactive	Form			Page		No		../docs/
+Graceful Service Degradation (Individual CUJs)	11	Development-Proactive	Form			Page		No		../docs/
+Left Shift Performance Testing	12	Development-Proactive	Form			Page		No		../docs/
+Graceful Service Degradation (Universal)	13	Development-Autonomic	Form			Page		No	Serious Design/Domain Driven Design	../docs/
+Bounded Context	14	Development-Autonomic	Form			Page		No	Protobufs	../docs/
+Protobufs	15	Development-Autonomic	Form			Page		No		../docs/
+						Page		No		../docs/
+Smoke Tests	3	Development-Demo	Form			Page		No	Automated Unit Testing, Functional Tests, Manual Integration Tests	../docs/
+Automated Unit Testing	4	Development-Deterministic	Form			Page		No		../docs/
+Multi Service Development	5	Development-Deterministic	Form			Page		No	Distributed Systems Awareness	../docs/
+Distributed Systems Awareness	7	Development-Reactive	Form			Page		No		../docs/Distributed_Systems_Awareness.html
+Deployments in Place	8	Development-Reactive	Form			Page		No		../docs/
+Feature Flags	9	Development-Reactive	Form			Page		No		../docs/
+Active Active Multi Cluster	11	Development-Proactive	Form			Page		No		../docs/
+Basic Chaos Testing	12	Development-Proactive	Form			Page		No		../docs/
+Serious Design/Domain Driven Design	13	Development-Autonomic	Form			Page		No		../docs/
+Design Around Universal Failure Domains	14	Development-Autonomic	Form			Page		No	Design for Chaos	../docs/
+Sharded Data	15	Development-Autonomic	Form			Page		No		../docs/
+						Page		No		../docs/
+Manual Tests	3	Development-Demo	Form			Page		No	Manual Integration Tests	../docs/
+Code Version Control	4	Development-Deterministic	Form			Page		No		../docs/
+functional tests	5	Development-Deterministic	Form			Page		No		../docs/
+semi automated integration	6	Development-Deterministic	Form			Page		No		../docs/
+Data versioning	7	Development-Reactive	Form			Page		No		../docs/
+traffic shifting	8	Development-Reactive	Form			Page		No		../docs/
+instrumentation for in process traces	9	Development-Reactive	Form			Page		No		../docs/
+Backwards Version Compatibility by default	10	Development-Proactive	Form			Page		No		../docs/
+Canary Deployments	11	Development-Proactive	Form			Page		No		../docs/
+Left Shift QA testing (SDET)	11	Development-Proactive	Form			Page		No		../docs/
+E2E testing	12	Development-Proactive	Form			Page		No		../docs/
+Multi Cluster Rollout Policy	13	Development-Autonomic	Form			Page		No		../docs/
+Universal Smart Retries	14	Development-Autonomic	Form			Page		No		../docs/
+Sharded Serving	15	Development-Autonomic	Form			Page		No		../docs/
+						Page		No		../docs/
+manual integration tests	5	Development-Deterministic	Form			Page		No		../docs/
+regular release cadence	6	Development-Deterministic	Form			Page		No		../docs/
+Containers	9	Development-Reactive	Form			Page		No	Container Orchestrator	../docs/
+Blue Green Deployments	10	Development-Proactive	Form			Page		No		../docs/
+Fuzz Testing	11	Development-Proactive	Form			Page		No		../docs/
+Distributed systems (no active/passive)	12	Development-Proactive	Form			Page		No		../docs/
+Automatic assured capacity and performance testing	13	Development-Autonomic	Form			Page		No		../docs/
+andon cord/big red button	14	Development-Autonomic	Form			Page		No		../docs/
+Code Quality Threshold (code reuse preferred)	15	Development-Autonomic	Form			Page		No		../docs/
+						Page		No		../docs/
+Low Context Architecture, Design, Coding, Operations	13	Development-Autonomic	Form			Page		No		../docs/
+Language Readability	14	Development-Autonomic	Form			Page		No		../docs/
+Only customize components needing customization	15	Development-Autonomic	Form			Page		No		../docs/
+						Page		No		../docs/
+Design for Chaos	15	Development-Autonomic	Form			Page		No		../docs/
+Formal methods (e.g. TLA+)	15	Development-Autonomic	Form			Page		No		../docs/
+						Page		No		../docs/
+						Page		No		../docs/
+Local data storage	1	Infrastructure-Demo	VM			Page		No		../docs/
+Single Zone	3	Infrastructure-Demo	VM			Page		No		../docs/
+DNS / SImple LB	4	Infrastructure-Deterministic	VM			Page		No	real loadbalancing	../docs/
+Basic linear capacity projection	6	Infrastructure-Deterministic	VM			Page		No		../docs/
+Advanced Loadbalancing	7	Infrastructure-Reactive	VM			Page		No		../docs/
+IaC	8	Infrastructure-Reactive	VM			Page		No	Cattle Infrastructure	../docs/
+Understand Infrastructure Failure Domains	9	Infrastructure-Reactive	VM			Page		No		../docs/
+Auto Failover	10	Infrastructure-Proactive	VM			Page		No		../docs/
+Failure Testing in Prod	11	Infrastructure-Proactive	VM			Page		No		../docs/
+N+1 as standard	12	Infrastructure-Proactive	VM			Page		No		../docs/
+N+2 Thinking	13	Infrastructure-Autonomic	VM			Page		No		../docs/
+N+2 Global Planning	15	Infrastructure-Autonomic	VM			Page		No		../docs/
+						Page		No		../docs/
+Pet Host	1	Infrastructure-Demo	VM			Page		No	>1 computer	../docs/
+>1 computer	4	Infrastructure-Deterministic	VM			Page		No		../docs/
+distributed storage	5	Infrastructure-Deterministic	VM			Page		No	alternate site replication	../docs/
+alternate site replication	7	Infrastructure-Reactive	VM			Page		No		../docs/
+Cattle Infrastructure	8	Infrastructure-Reactive	VM			Page		No		../docs/
+Container Orchestrator	9	Infrastructure-Reactive	VM			Page		No	Container Orchestrator	../docs/
+Auto Scaling	10	Infrastructure-Proactive	VM			Page		No		../docs/
+Eliminate SPOFs (hardware & software)	11	Infrastructure-Proactive	VM			Page		No		../docs/
+Service Discovery	12	Infrastructure-Proactive	VM			Page		No		../docs/
+Drain/Spill (N/S & E/W)	14	Infrastructure-Autonomic	VM			Page		No		../docs/
+								No		../docs/
+Basic Loadtesting	7	Infrastructure-Reactive	VM			Page		No		../docs/
+Multi Zone	8	Infrastructure-Reactive	VM			Page		No		../docs/
+Holt-Winter capacity projections	9	Infrastructure-Reactive	VM			Page		No		../docs/
+Failure Injection	10	Infrastructure-Proactive	VM			Page		No		../docs/
+N+1 Regional Planning	11	Infrastructure-Proactive	VM			Page		No		../docs/
+L7 Global LB	12	Infrastructure-Proactive	VM			Page		No		../docs/
+						Page		No		../docs/
+High Water Mark Prediction	8	Infrastructure-Reactive	VM			Page		No		../docs/
+Immutable Infrastructure	9	Infrastructure-Reactive	VM			Page		No		../docs/
+Assured Capacity Load Testing	10	Infrastructure-Proactive	VM			Page		No		../docs/
+Real World Traffic Load Testing	11	Infrastructure-Proactive	VM			Page		No		../docs/
+L4 Regional Load Balancing	12	Infrastructure-Proactive	VM			Page		No		../docs/
+			VM			Page		No		../docs/
+Multi Region	12	Infrastructure-Proactive	VM			Page		No		../docs/
+						Page		No		../docs/
+Off-host backup	1	Operations-Demo	Dashboard			Page		No		../docs/
+RPO/RTO defined	2	Operations-Demo	Dashboard			Page		No		../docs/
+DR Plan	3	Operations-Demo	Dashboard			Page		No		../docs/
+RPO/RTO refined	4	Operations-Deterministic	Dashboard			Page		No		../docs/
+DR plan simulated/tabletop	5	Operations-Deterministic	Dashboard			Page		No		../docs/
+DR plan tested periodically	6	Operations-Deterministic	Dashboard			Page		No		../docs/
+Continuous Integration	7	Operations-Reactive	Dashboard			Page		No		../docs/
+Continuous Delivery	8	Operations-Reactive	Dashboard			Page		No		../docs/
+Regular BCP Testing (run from alternate site)	9	Operations-Reactive	Dashboard			Page		No		../docs/
+% Based Traffic Steering	10	Operations-Proactive	Dashboard			Page		No		../docs/
+Active Active Datastores	11	Operations-Proactive	Dashboard			Page		No		../docs/
+Internal Rate Limiting	12	Operations-Proactive	Dashboard			Page		No		../docs/
+Autonomous Response Systems	14	Operations-Autonomic	Dashboard			Page		No		../docs/
+Automatic Rollbacks	15	Operations-Autonomic	Dashboard			Page		No		../docs/
+						Page		No		../docs/
+Manually created machines	1	Operations-Demo	Dashboard			Page		No		../docs/
+Manual VM Images	2	Operations-Demo	Dashboard			Page		No		../docs/
+Custom VMs via semi-automation	3	Operations-Demo	Dashboard			Page		No		../docs/
+ITIL style NOC	4	Operations-Deterministic	Dashboard			Page		No		../docs/
+DR Site Exists	5	Operations-Deterministic	Dashboard			Page		No		../docs/
+Manual remediation playbooks	6	Operations-Deterministic	Dashboard			Page		No		../docs/
+Formal Incident Response Roles	7	Operations-Reactive	Dashboard			Page		No		../docs/
+Formal Incident Response Processes	8	Operations-Reactive	Dashboard			Page		No		../docs/
+Rollbacks/Rollforwards tested	9	Operations-Reactive	Dashboard			Page		No		../docs/
+Continuous Deployment	10	Operations-Proactive	Dashboard			Page		No		../docs/
+External Rate Limiting	11	Operations-Proactive	Dashboard			Page		No		../docs/
+Centralized Production Changelog	12	Operations-Proactive	Dashboard			Page		No		../docs/
+Proactive DDoS Countermeasures	13	Operations-Autonomic	Dashboard			Page		No		../docs/
+Load Prediction	14	Operations-Autonomic	Dashboard			Page		No		../docs/
+						Page		No		../docs/
+Manual Remediation	2	Operations-Demo	Dashboard			Page		No		../docs/
+Scheduled Downtime	4	Operations-Deterministic	Dashboard			Page		No		../docs/
+Basic Incident Management	5	Operations-Deterministic	Dashboard			Page		No		../docs/
+Repeatable Deployments	6	Operations-Deterministic	Dashboard			Page		No		../docs/
+Automation of Toil	7	Operations-Reactive	Dashboard			Page		No		../docs/
+Problem Management Function	8	Operations-Reactive	Dashboard			Page		No		../docs/
+Dedicated Operations Tooling	9	Operations-Reactive	Dashboard			Page		No		../docs/
+Automated Service Discovery	10	Operations-Proactive	Dashboard			Page		No		../docs/
+Data Collection Automation	11	Operations-Proactive	Dashboard			Page		No		../docs/
+Mostly Automated Remediation	12	Operations-Proactive	Dashboard			Page		No		../docs/
+						Page		No		../docs/
+Patching Windows	4	Operations-Deterministic	Dashboard			Page		No		../docs/
+Gold Image Automation	5	Operations-Deterministic	Dashboard			Page		No		../docs/
+Central Certificate Rotation	6	Operations-Deterministic	Dashboard			Page		No		../docs/
+Breakglass Secret Access	7	Operations-Reactive	Dashboard			Page		No		../docs/
+Global Policy Enforcement	10	Operations-Proactive	Dashboard			Page		No		../docs/
+Vanilla DDoS Protection	11	Operations-Proactive	Dashboard			Page		No		../docs/
+DiRT Testing	12	Operations-Proactive	Dashboard			Page		No		../docs/
+						Page		No		../docs/
+Product Specific DDoS Protection (e.g. WAF)	12	Operations-Proactive	Dashboard			Page		No		../docs/
+						Page		No		../docs/
+Host Metrics and Logging	1	Observability-Demo	Visualization			Page		No		../docs/
+Per Host Alarms	3	Observability-Demo	Visualization			Page		No		../docs/
+Host Ping Tests	4	Observability-Deterministic	Visualization			Page		No		../docs/
+Synthetic Monitoring	6	Observability-Deterministic	Visualization			Page		No		../docs/
+APM Metrics and Traces	7	Observability-Reactive	Visualization			Page		No		../docs/
+Internal SLAs	8	Observability-Reactive	Visualization			Page		No		../docs/
+Error Budgets	9	Observability-Reactive	Visualization			Page		No		../docs/
+Custom In Process Tracing	10	Observability-Proactive	Visualization			Page		No		../docs/
+Cross Service Transaction Testing	11	Observability-Proactive	Visualization			Page		No		../docs/
+Multi Machine Debugging, hotspots etc	12	Observability-Proactive	Visualization			Page		No		../docs/
+Anomaly Detection	13	Observability-Autonomic	Visualization			Page		No		../docs/
+Observability Integration Across Tools	14	Observability-Autonomic	Visualization			Page		No		../docs/
+						Page		No		../docs/
+On host log grep	3	Observability-Demo	Visualization			Page		No		../docs/
+SSH to Grep Logs	4	Observability-Deterministic	Visualization			Page		No		../docs/
+Centralized Log Collection	5	Observability-Deterministic	Visualization			Page		No		../docs/
+Realtime Centralized Log Analytics	6	Observability-Deterministic	Visualization			Page		No		../docs/
+Automated Topology View	7	Observability-Reactive	Visualization			Page		No		../docs/
+Service Level Indicators (SLI)	8	Observability-Reactive	Visualization			Page		No		../docs/
+Record and Replay Traffic	10	Observability-Proactive	Visualization			Page		No		../docs/
+Advanced Vizualizations (heatmaps, flamegraphs)	11	Observability-Proactive	Visualization			Page		No		../docs/
+Near Miss Detection	13	Observability-Autonomic	Visualization			Page		No		../docs/
+						Page		No		../docs/
+Service Level Objectives (SLO)	8	Observability-Reactive	Visualization			Page		No		../docs/
+Event Correlation	10	Observability-Proactive	Visualization			Page		No		../docs/
+						Page		No		../docs/
+High Context Behaviours	1	People-Demo	Timeline			Page		No		../docs/
+RCA/5 Whys	4	People-Deterministic	Timeline			Page		No		../docs/
+Incentivise trust/safety	5	People-Deterministic	Timeline			Page		No		../docs/
+Understand Business Impacts	6	People-Deterministic	Timeline			Page		No		../docs/
+Blameless Postmortems	7	People-Reactive	Timeline			Page		No		../docs/
+Postmortem reviews/actions	8	People-Reactive	Timeline			Page		No		../docs/
+Single Central CAB	9	People-Reactive	Timeline			Page		No		../docs/
+Holistic View of R9y as high value	10	People-Proactive	Timeline			Page		No		../docs/
+Reliability Executive/Sponsor exists	11	People-Proactive	Timeline			Page		No		../docs/
+Reliability has a seat at the table	12	People-Proactive	Timeline			Page		No		../docs/
+R9y is a product differentiator	13	People-Autonomic	Timeline			Page		No		../docs/
+R9y can stop feature launch	14	People-Autonomic	Timeline			Page		No		../docs/
+Proactive Risk and Scaling Analysis	15	People-Autonomic	Timeline			Page		No		../docs/
+			Timeline			Page		No		../docs/
+Managing pet configuration drift	2	People-Demo	Timeline			Page		No		../docs/
+Measure Everything	4	People-Deterministic	Timeline			Page		No		../docs/
+Data Driven Decisions	5	People-Deterministic	Timeline			Page		No		../docs/
+Service Ownership	6	People-Deterministic	Timeline			Page		No		../docs/
+Incentivise cross silo collaboration	7	People-Reactive	Timeline			Page		No		../docs/
+Dedicated R9y staffing	8	People-Reactive	Timeline			Page		No		../docs/
+Change Freezes	9	People-Reactive	Timeline			Page		No		../docs/
+Vertical Scale is an Antipattern	10	People-Proactive	Timeline			Page		No		../docs/
+SRE SWE roles introduced	11	People-Proactive	Timeline			Page		No		../docs/
+Empowered R9y staff	12	People-Proactive	Timeline			Page		No		../docs/
+R9y Embedded in High Level Strategy and Operations	13	People-Autonomic	Timeline			Page		No		../docs/
+Advanced Cost Optimization	14	People-Autonomic	Timeline			Page		No		../docs/
+Focus on prevention and near misses instead of outages	15	People-Autonomic	Timeline			Page		No		../docs/
+			Timeline			Page		No		../docs/
+TODO Lists	3	People-Demo	Timeline			Page		No		../docs/
+Waterfall Projects/PMO	4	People-Deterministic	Timeline			Page		No		../docs/
+SMART Goals	5	People-Deterministic	Timeline			Page		No		../docs/
+Goals -> Objectives (OKRs)	8	People-Reactive	Timeline			Page		No		../docs/
+Architecture Reviews	9	People-Reactive	Timeline			Page		No		../docs/
+High Performing Staff (Promotion and Hiring)	10	People-Proactive	Timeline			Page		No		../docs/
+Reactive Risk Analysis	11	People-Proactive	Timeline			Page		No		../docs/
+Basic Cost Optimisation	12	People-Proactive	Timeline			Page		No		../docs/
+			Timeline			Page		No		../docs/
+Introducing Dedicated SREs	10	People-Proactive	Timeline			Page		No		../docs/
+Toil Budgets	11	People-Proactive	Timeline			Page		No		../docs/
+Decreased Reliance on 3rd party SaaS	12	People-Proactive	Timeline			Page		No		../docs/
