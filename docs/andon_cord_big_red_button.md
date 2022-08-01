@@ -1,28 +1,11 @@
-# Topic Name
+# Title
 
-Foo the Bar
+/description goes here/
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites:
 
-## Lane
+Next:
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

@@ -1,28 +1,3 @@
-# Topic Name
+# 1 Computer
 
-Foo the Bar
-
-## Era
-
-Reactive
-
-## Lane
-
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+When getting started, just using a single computer is sufficient for low availability and low scale. It is much easier to work with and might even fit on your lap!
