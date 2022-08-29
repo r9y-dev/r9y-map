@@ -1,28 +1,13 @@
-# Topic Name
+# Automatic Assured Capacity and Performance Testing
 
-Foo the Bar
+When a platform automatically executes existing assured capacity and performance tests before allowing a system to be released into production, or otherwise make progress.
 
-## Era
+This can be placed in a CI/CD pipeline to ensure tests not only pass, but that their performance targets match up with observed and predicted future demand.
 
-Reactive
+Related Products: TBC
 
-## Lane
+Prerequisites: TBC
 
-Observability
+Next: TBC
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: Assured Capacity Load Testing

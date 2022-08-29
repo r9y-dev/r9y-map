@@ -1,28 +1,13 @@
-# Topic Name
+# Automated Unit Testing
 
-Foo the Bar
+The capability of running unit tests automatically, without a developer explicitly kicking them off.  This can happen within an IDE, in a build system, or in a CI/CD system.
 
-## Era
+The intent is to avoid the possibility that a developer simply forgets to run tests and integrates untested code into a repository.
 
-Reactive
+Related Products: TBC
 
-## Lane
+Prerequisites: TBC
 
-Observability
+Next: TBC
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC

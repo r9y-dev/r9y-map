@@ -1,28 +1,15 @@
-# Topic Name
+# Automated Service Discovery
 
-Foo the Bar
+The ability for one service to find another service without needing a pre-determined mapping. Service A should be able to find all instances or endpoints that provide Service B, including those in other geographies or clusters (possibly via some gateway).
 
-## Era
+These can be implemented through a variety of systems, including DNS, Zookeeper, Kubernetes (etcd), Consul.
 
-Reactive
+One must be careful to consider health and liveness of a discovered system, as well as its rated capacity and current demand before sending more traffic to it.
 
-## Lane
+Related Products: TBC
 
-Observability
+Prerequisites: TBC
 
-## Description
+Next: TBC
 
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC

@@ -1,28 +1,14 @@
-# Topic Name
+# APM Metrics and Traces
 
-Foo the Bar
+Application Performance Monitoring (APM) is a set of products that tends to include a server-side agent which observes the running application and its environment, then reports back to a centralized timeseries and analysis platform.
 
-## Era
+Related Products:
 
-Reactive
+- DataDog
+- NewRelic
 
-## Lane
+Prerequisites:
 
-Observability
+Next:
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

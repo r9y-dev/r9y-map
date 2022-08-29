@@ -1,28 +1,13 @@
-# Topic Name
+# Autonomous Response Systems
 
-Foo the Bar
+A programmable system that can alter production based on observability signals.   For example when X breaks, apply fix Y.  Simpler: when Z fails, reboot it.
 
-## Era
+Note: this can be *very dangerous* and can lead to increased speed to failure as well as reduced understanding of a system. Be very careful.
 
-Reactive
+Related Products: TBC
 
-## Lane
+Prerequisites: TBC
 
-Observability
+Next: TBC
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC

@@ -1,28 +1,18 @@
-# Topic Name
+# Automatic Rollbacks
 
-Foo the Bar
+The ability to roll back a release that has been determined to be somehow faulty, without any human interaction.
+For example, when a release is exposed to user traffic, if the response rate violates an Availability or Latency SLO, or otherwise can be measured to be significantly underperforming, the bad release should be immediately rolled back to the previously known-good version.
 
-## Era
+This is straight-forward for releases that have well-known characteristics of what is "good" and "bad" but can be tricky if that is harder to measure.
 
-Reactive
+This is also much easier when a release is first rolled out, harder if it is discovered near the end of a rollout.
 
-## Lane
+This implies that a release is *safe* to rollback. Data or schema changes may result in a "point of no return" that does not allow for a rollback.  These should be avoided as much as possible, but if they can't be avoided, automatic rollbacks must be disabled for this particular release.
 
-Observability
+Related Products: TBC
 
-## Description
+Prerequisites: TBC
 
-lorus ipsum
+Next: TBC
 
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC

@@ -1,28 +1,13 @@
-# Topic Name
+# Central Certificate Rotation
 
-Foo the Bar
+When moving away from manually-created encryption certificates and monitors or other human-interrupting systems for replacing expired or about-to-expire certificates, one should introduce a method for tracking all certificates and details around their expiry, as well as a system that can push out updates to those certificates without human intervention.
 
-## Era
+Like any large automation system, this can be dangerous.  A mismanaged system that can push encryption primitives to many machines should be treated with caution and must include many safety checks, to avoid severly harming a running system.
 
-Reactive
+Related Products: ACME, digicert, kubernetes, keyfactor
 
-## Lane
+Prerequisites: TBC
 
-Observability
+Next: TBC
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC

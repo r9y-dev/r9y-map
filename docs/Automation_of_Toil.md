@@ -1,28 +1,13 @@
-# Topic Name
+# Automation of Toil
 
-Foo the Bar
+Toil is manual work performed by human operators that is devoid of lasting value.  By automating this toil, we free up time for these operators to work on value-providing work.
 
-## Era
+Toil should be automated in a way that is understandable and discoverable by other operators.  It should be assumed that the work or the environment will change over time, so any automation should be expected to break in the future and require discovery and repair.
 
-Reactive
+Related Products: TBC
 
-## Lane
+Prerequisites: TBC
 
-Observability
+Next: TBC
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC

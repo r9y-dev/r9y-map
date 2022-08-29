@@ -1,28 +1,15 @@
-# Topic Name
+# Basic Incident Management
 
-Foo the Bar
+When introducing Incident Management, teams should just start with the basics:  Training on the role of Incident Commanders, a shared vocabulary, expected communication patterns.
 
-## Era
+Tooling might be introduced as well, but don't expect teams to adapt to ICS tools right away.  Meet them where there are, using existing well-understood tools first.
 
-Reactive
+A good starting point is from pagerduty: <https://response.pagerduty.com/>
 
-## Lane
+Related Products: blameless.com, ServiceNow, FireHydrant, Rootly, incident.io
 
-Observability
+Prerequisites: TBC
 
-## Description
+Next: TBC
 
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC
