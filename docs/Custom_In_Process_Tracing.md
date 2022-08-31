@@ -1,28 +1,10 @@
-# Topic Name
+# Custom In Process Tracing
 
-Foo the Bar
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites:
 
-## Lane
+Next:
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms:

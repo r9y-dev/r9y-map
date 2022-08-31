@@ -1,28 +1,11 @@
-# Topic Name
+# Code Version Control
 
-Foo the Bar
+A system for storing an organization's source code. Allows teams to coordinate on a shared code base, provides a full history of code changes over time.
 
-## Era
+Related Products: git, mercurial (hg), cvs, Perforce
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC

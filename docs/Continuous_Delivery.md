@@ -1,28 +1,13 @@
-# Topic Name
+# Continuous Delivery
 
-Foo the Bar
+Continuous delivery is the ability to release changes of all kinds on demand quickly, safely, and sustainably.
 
-## Era
+<https://cloud.google.com/architecture/devops/devops-tech-continuous-delivery>
 
-Reactive
+Related Products: CircleCI, split.io, GitHub, GitLab, Jenkins
 
-## Lane
+Prerequisites: Continuous Integration
 
-Observability
+Next: Continuous Deployment
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: Continuous Integration

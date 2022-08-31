@@ -1,28 +1,11 @@
-# Topic Name
+# Container Orchestrator
 
-Foo the Bar
+A system which provides high-level control over the scheduling of containers on host (virtual) machines. An API-driven interface as well as commandline tools and possibly a GUI for understanding current state. Scheduling tends to be decalarative, allowing an operator to set the eventual intent, letting the orchestrator figure out how to achieve it and handle runtime issues (like a machine failure).
 
-## Era
+Related Products: Kubernetes, Mesos, Borg
 
-Reactive
+Prerequisites: Containers, Virtual Machines
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: Containers
