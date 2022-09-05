@@ -5815,9 +5815,9 @@ const state = {
   mapId: undefined,
   mapLink: undefined,
   mapName: undefined,
-  zoomLevel: 0.3,
-  targetZoomLevel: 0.3,
-  preCujZoomLevel: 0.3,
+  zoomLevel: 0.4, // jamesbrookbank@ change to initial startup NB adjust zoomLevel targetZoomLevel and preCujZoomLevel together
+  targetZoomLevel: 0.4, // jamesbrookbank@ change to initial startup NB adjust zoomLevel targetZoomLevel and preCujZoomLevel together
+  preCujZoomLevel: 0.4, // jamesbrookbank@ change to initial startup NB adjust zoomLevel targetZoomLevel and preCujZoomLevel together
   svgDoc: undefined,
 
   // CUJ Overlay Vars
