@@ -1,28 +1,11 @@
-# Topic Name
+# Graceful Service Degradation (Universal)
 
-Foo the Bar
+Consistent application of Graceful Service Degradation, to the point where teams expect services that they depend on to degrade gracefully and similarly offer that same expectations to dependees.
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites: Graceful Service Degradation (Individual CUJs)
 
-## Lane
+Next:
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

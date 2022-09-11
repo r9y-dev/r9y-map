@@ -1,28 +1,15 @@
-# Topic Name
+# Host Metrics and Logging
 
-Foo the Bar
+Measuring metrics of a host (eg: cpu usage, disk usage, disk fullness, memory residence metrics, uptime). This is often done via 3rd party monitoring systems which might utilize an on-host agent process.  Alternatively, the OS itself might provide metrics visible to logged-in users via simple tools like `top` or via various files in `/var/proc`.
+Also, the writing and analysis of logs present on that same host.  Often this analysis is done via `ssh` or `scp`ing logs back to a workstation in an ad-hoc manner.
 
-## Era
+Related Products:
 
-Reactive
+- Nagios!
+- mttd(?)
 
-## Lane
+Prerequisites:
 
-Observability
+Next:
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

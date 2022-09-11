@@ -1,28 +1,11 @@
-# Topic Name
+# Functional Tests
 
-Foo the Bar
+A series of automated tests that ensure a system performs required high-level functionality.
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites:
 
-## Lane
+Next:
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

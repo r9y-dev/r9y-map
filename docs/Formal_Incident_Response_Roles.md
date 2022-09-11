@@ -1,28 +1,16 @@
-# Topic Name
+# Formal Incident Response Roles
 
-Foo the Bar
+The point when a team chooses to adopt roles for Incident Response.  The most common roles are: Incident Commander (IC), Communications Lead.
 
-## Era
+Related Products:
 
-Reactive
+- pagerduty docs
+- google sre book
+- blameless
+- firehydrant
 
-## Lane
+Prerequisites:
 
-Observability
+Next:
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:
