@@ -8,6 +8,6 @@ Related Products: CircleCI, GitHub, GitLab, Jenkins, Cloud Build
 
 Prerequisites: Automated Unit Tests
 
-Next: 
+Next:
 
 Related terms: Continuous Deployment
