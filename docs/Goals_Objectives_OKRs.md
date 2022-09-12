@@ -1,27 +1,11 @@
-# Objectives preferred over goals
-Goals should evolve to be data driven and measurable, an OKR framework can be used but isn't mandatory. Outcomes should be prefered over inputs and tasks
+# Goals -> Objectives (OKRs)
 
-## Era
+By moving from project-based goals ("deliver feature X") to business objectives, teams are given more autonomy and flexiblity to accomplish an Objective without adhering to a pre-determined guess as to how it might be accomplished.  This allows for adjusting of course, while still keeping the right heading for the company.
 
-Reactive
+Related Products:
 
-## Lane
+Prerequisites:
 
-Observability
+Next:
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

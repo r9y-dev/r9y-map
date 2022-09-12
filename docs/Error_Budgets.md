@@ -1,28 +1,11 @@
-# Topic Name
+# Error Budgets
 
-Foo the Bar
+The inverse of an SLO, an Error Budget measures how many errors are allowable in a given period.  This absolute measurement allows a team to "spend" some errors on reliability experiements or known error sources, while "saving" some for unplanned outages.
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites: Service Level Objectives (SLOs)
 
-## Lane
+Next:
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

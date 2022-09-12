@@ -1,28 +1,13 @@
-# Topic Name
+# Continuous Deployment
 
-Foo the Bar
+Continuous deployment is when teams try to deploy every code change to production as soon as possible. Continuous deployment works well for web services, but can't be applied to software such as firmware or mobile apps. The motivation is "A bug is easier to fix when it comes from code deployed five minutes ago instead of five days ago."
 
-## Era
+<https://en.wikipedia.org/wiki/Continuous_deployment>
 
-Reactive
+Related Products: CircleCI, split.io, GitHub, GitLab, Jenkins
 
-## Lane
+Prerequisites: Continuous Integration, Continuous Deployment
 
-Observability
+Next:
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: Continuous Integration, Continuous Deployment

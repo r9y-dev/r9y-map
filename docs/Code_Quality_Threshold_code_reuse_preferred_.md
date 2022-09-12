@@ -1,28 +1,11 @@
-# Topic Name
+# Code Quality Thresholds (Code reuse preferred)
 
-Foo the Bar
+A consistent method of determining quality of code before allowing use in production.  Potentially requiring code coverage, test types, fuzzing, etc.  All automated annotations required in the source code Version Control System, before allowing entry into CI/CD.
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites: TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related terms: TBC

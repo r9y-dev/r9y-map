@@ -1,28 +1,11 @@
-# Topic Name
+# Eliminate SPOFs (Hardware & Software)
 
-Foo the Bar
+The elimination of all Single Points of Failure (SPOFs) within an entire system.  Generally done via replication across failure domains.  The loss of a single entity or subsystem should not result in catastrophic failure. This can include people/knowledge silos!
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites:
 
-## Lane
+Next:
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

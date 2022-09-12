@@ -1,28 +1,11 @@
-# Topic Name
+# Holtz-Winter Capacity Projections
 
-Foo the Bar
+A method of projecting a timeseries into the future, with expected error bars.  This can be used to better account for periodic fluctuations that are consistent over time (eg: weekend traffic dip).
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites:
 
-## Lane
+Next:
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

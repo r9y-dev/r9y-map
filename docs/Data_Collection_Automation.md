@@ -1,28 +1,13 @@
-# Topic Name
+# Data Collection Automation
 
-Foo the Bar
+(unclear what this really meant)
 
-## Era
+Instead of relying on product teams to build a method for conveying data from production nodes to a central repository or data lake, designing a system which does this automatically for all systems, in a consistent way.
 
-Reactive
+Related Products: TBC
 
-## Lane
+Prerequisites:  TBC
 
-Observability
+Next: TBC
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC

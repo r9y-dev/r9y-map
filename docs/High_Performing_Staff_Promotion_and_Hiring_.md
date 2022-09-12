@@ -1,28 +1,13 @@
-# Topic Name
+# High Performing Staff (Promotion and Hiring)
 
-Foo the Bar
+The generation of a high-performing staff by means of selectively promoting individuals who perform well.   Similarly, selecting candidates for hiring by assessing their potential to perform well.
 
-## Era
+As opposed to unstructured promotion and hiring, or bad practices like nepotism, cronyism.
 
-Reactive
+Related Products:
 
-## Lane
+Prerequisites:
 
-Observability
+Next:
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

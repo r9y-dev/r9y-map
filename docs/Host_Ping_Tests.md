@@ -1,28 +1,11 @@
-# Topic Name
+# Host Ping Tests
 
-Foo the Bar
+An early form of monitoring, ensuring that the set of hosts that your system depends on are still running and accessible to the network by means of running the `ping` utility regularly (or constantly) and analyzing the output to determine which hosts need help.
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites:
 
-## Lane
+Next:
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

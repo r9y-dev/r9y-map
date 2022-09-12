@@ -1,28 +1,17 @@
-# Topic Name
+# Custom (in process) Tracing
 
-Foo the Bar
+Instrumenting code directly, for the purposes of adding or improving distributed tracing to allow understanding of how traffic flows not only between services, but what they do within a single binary of a service.  For example, setting a span to indicate when it enters a critical section of a method or accesses a particular subroutine.
 
-## Era
+This is done with a language- and tracing-protocol specific library, for example OpenTelemetry for Java.
 
-Reactive
+Related Products:
 
-## Lane
+- OpenTelemetry
+- OpenTracing
+- OpenCensus
 
-Observability
+Prerequisites:  TBC
 
-## Description
+Next: TBC
 
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC

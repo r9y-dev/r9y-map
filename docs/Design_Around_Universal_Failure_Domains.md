@@ -1,28 +1,17 @@
-# Topic Name
+# Design around Universal Failure Domains
 
-Foo the Bar
+(why "Universal"?)
 
-## Era
+When an organization consistently defines failure domains which are effective ways of mapping logical grouping of systems in such a way that logical or physical isolation reduces the spread of failure across boundary lines.
 
-Reactive
+For example, defining a hierarchy of domains like: VM, rack, building, campus, region.  As long as these are done *consistently* and in a meaningful way where developers designing a system using these concepts can understand the dynamic effect of failure modes with regards to these domains, these terms can be used to create a more robust system.
 
-## Lane
+When these terms are used poorly, or their meanings are not understood, assumptions can be made by designers that may interpret their name to imply some level of protection that does not actually match reality.
 
-Observability
+Related Products:
 
-## Description
+Prerequisites:
 
-lorus ipsum
+Next:
 
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

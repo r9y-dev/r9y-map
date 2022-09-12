@@ -1,28 +1,11 @@
-# Topic Name
+# DNS / Simple LB
 
-Foo the Bar
+Simple loadbalancing can be achieved between nodes or sites via the creation of multiple DNS entries, which the client will choose from.  This method is very coarse and has a slow change propogation speed, but is relatively simple to implement.
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites:
 
-## Lane
+Next:
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

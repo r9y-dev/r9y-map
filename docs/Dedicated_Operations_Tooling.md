@@ -1,28 +1,11 @@
-# Topic Name
+# Dedicated Operations Tooling
 
-Foo the Bar
+The introduction of software written by or adopted and customized by a product's operating team.  This contrasts with ad-hoc reactive scripting or "clickops" during incidents, Operations Tooling is designed and developed proactively, considering known failure modes and providing mitigations or investigative assistance to operators.  These tools tend to be long-lived and adapt over time.
 
-## Era
+Related Products: TBC
 
-Reactive
+Prerequisites:  TBC
 
-## Lane
+Next: TBC
 
-Observability
-
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms: TBC
