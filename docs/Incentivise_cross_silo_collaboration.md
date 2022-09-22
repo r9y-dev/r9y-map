@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Incentivise cross silo collaboration
 [Generative](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture) culture aspects which encourage cooperation despite local incentives
 

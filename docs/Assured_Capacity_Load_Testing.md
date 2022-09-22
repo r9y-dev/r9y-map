@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Assured Capacity Load Testing
 
 A load test which is automatically run to ensure that the expected capacity of a system is still assured in the latest configuration. For example, when deploying a new binary for a service that has an expected capacity rating of 100 qps, ensure that a single instance can safely support 10 qps, while still performing within expected bounds, and that at least 10 replicas are available.

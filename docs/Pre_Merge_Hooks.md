@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Pre-Merge Hooks
 
 ## Description

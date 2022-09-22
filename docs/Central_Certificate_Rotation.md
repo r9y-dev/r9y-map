@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Central Certificate Rotation
 
 When moving away from manually-created encryption certificates and monitors or other human-interrupting systems for replacing expired or about-to-expire certificates, one should introduce a method for tracking all certificates and details around their expiry, as well as a system that can push out updates to those certificates without human intervention.

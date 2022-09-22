@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Formal Incident Response Processes
 
 When teams choose to define and adopt ICS processes for their Incident Response process.  This can be a stark difference from previous models which might vary from "best effort" to "all hands on deck" or total lack of process.

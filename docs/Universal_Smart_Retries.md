@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Topic Name
 
 Foo the Bar

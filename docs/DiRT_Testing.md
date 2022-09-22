@@ -1,3 +1,6 @@
+---
+type: post
+---
 # DiRT Testing
 
 Comparable to Chaos Testing. (the same?)

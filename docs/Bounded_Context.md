@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Bounded Context
 
 ## Development-Autonomic

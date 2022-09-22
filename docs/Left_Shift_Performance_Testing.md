@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Left Shift Performance Testing
 
 Including load tests and capacity assurance tests into the automated CI/CD pipeline to ensure capacity plans are still valid for new builds.

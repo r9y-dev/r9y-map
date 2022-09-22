@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Advanced Cost Optimization
 
 

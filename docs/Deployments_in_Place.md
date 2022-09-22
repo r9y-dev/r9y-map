@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Deployments in Place
 
 ## Development-Reactive

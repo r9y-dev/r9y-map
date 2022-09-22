@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Automated Service Discovery
 
 The ability for one service to find another service without needing a pre-determined mapping. Service A should be able to find all instances or endpoints that provide Service B, including those in other geographies or clusters (possibly via some gateway).

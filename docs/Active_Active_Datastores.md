@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Active-Active Datastores
 
 A datastore that provides strong replication between 2+ locations in a way that allows

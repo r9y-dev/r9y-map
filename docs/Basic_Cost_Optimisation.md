@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Basic Cost Optimization
 Maximizing business value when making reliability improvements, especially important in highly scalable systems. Examples are quotas, bin packing, etc
 

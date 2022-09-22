@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Leftshift Reliability Design
 
 ## Development-Proactive

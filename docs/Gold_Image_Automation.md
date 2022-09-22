@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Gold Image Automation
 
 The building and testing of fully populated VM images (OS, dependendencies, service binaries and base configurations, required data) into a single VM image that can be used to "stamp out" production machines that are ready to serve almost immediately upon creation.  Such a Gold Image can be developed and validated outside of production and are tested and "blessed" when new components (binaries, configs, data, patches) are released.

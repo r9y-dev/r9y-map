@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Service Level Objectives (SLOs)
 
 By defining a measurable objective of acceptable user happiness, teams are able to make data driven decisions on when to prioritize reliability improvements.  SLOs codify this measurement through a human-interpretable ratio of "good"/total resulting in a ratio often measured in "nines" as a highly-reliable system tends to have 99.9% or 99.99% set as a goal.

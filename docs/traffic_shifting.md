@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Traffic Shifting (maybe later than microservices?)
 
 ## Development-Reactive

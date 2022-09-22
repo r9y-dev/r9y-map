@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Reliability executive sponsor
 Whether via a formal or informal role, a senior individual or group within the organization sponsors reliability as an important quality/discipline
 

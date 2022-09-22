@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Automatic Assured Capacity and Performance Testing
 
 When a platform automatically executes existing assured capacity and performance tests before allowing a system to be released into production, or otherwise make progress.

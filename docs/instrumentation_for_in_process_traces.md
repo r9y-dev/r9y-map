@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Instrumentation for in process traces [Advanced Tracing]
 
 ## Development-Reactive
