@@ -1,3 +1,6 @@
+---
+type: post
+---
 # External Rate Limiting
 
 The ability to control the amount of traffic that enters a system from the outside.  Generally this can be considered traffic from an external loadbalancer or proxy, representing user traffic.  This might also be considered for traffic from other services, operated by other teams, but still within a single organization or product.

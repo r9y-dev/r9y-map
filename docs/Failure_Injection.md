@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Failure injection - rename fault injection?
 
 [Fault injection](https://en.wikipedia.org/wiki/Fault_injection) 

@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Low Context Architecture (Design, Coding, Operations)
 
 ## Development-Autonomic

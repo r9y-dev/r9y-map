@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Automation of Toil
 
 Toil is manual work performed by human operators that is devoid of lasting value.  By automating this toil, we free up time for these operators to work on value-providing work.

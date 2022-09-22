@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Architecture Reviews
 
 Proposed system architectures are routinely reviewed with a reliability/operational capability lens

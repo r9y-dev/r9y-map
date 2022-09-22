@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Centralized Production Changelog
 
 By logging all changes to a single system, teams are far more likely to be able to answer the question "what just changed?"

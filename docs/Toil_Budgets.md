@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Toil budgets
 Capping and removing [toil](https://sre.google/sre-book/eliminating-toil/) as a practice
 

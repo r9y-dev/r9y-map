@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Title
 
 /description goes here/

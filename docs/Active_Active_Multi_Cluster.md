@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Active-Active Multi Cluster (Active-Active Stacks Monolith-style)
 
 An architecture that provides two (or more?) "stacks" of services, each of which are constantly in-use during normal operation. Now, if one stack fails, the others can immediately take the load of the failed stack, as they're already in place.

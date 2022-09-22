@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Automatic Rollbacks
 
 The ability to roll back a release that has been determined to be somehow faulty, without any human interaction.

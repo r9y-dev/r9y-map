@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Centrailized Log Collection
 
 By copying all logs into a centralized system, you no longer have to log into machines or VMs to manually `grep` logs.  Instead, you're able to search across logs from many machines at once, applying filtering and aggregation pulled from Big Data tooling.  This implies a reliable (and hopefully quick) method of forwarding log entries. This might be done via an agent or some other sort of sidecar process.

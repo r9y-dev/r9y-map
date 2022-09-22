@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Microservices
 
 ## Description

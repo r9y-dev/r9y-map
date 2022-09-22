@@ -1,3 +1,6 @@
+---
+type: post
+---
 # E2E testing
 
 Automated testing of the entire system, across multiple services. This includes all dependencies and environments.  Testing flows as a user would use them to ensure the components all interact with each other properly.

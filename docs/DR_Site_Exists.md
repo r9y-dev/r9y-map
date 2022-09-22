@@ -1,3 +1,6 @@
+---
+type: post
+---
 # DR Site Exists
 
 After the creation of a DR plan, the actual creation of a second site (and its population of data, compute, etc) according to the DR plan. This shifts the work from the theoretical to actually spending money on hardware and the replication of data.

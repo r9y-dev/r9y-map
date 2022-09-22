@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Data Collection Automation
 
 (unclear what this really meant)

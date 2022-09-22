@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Canary Deployments
 
 A canary rollout is a deployment strategy where the operator releases a new version of their application to a small percentage of the production traffic. 

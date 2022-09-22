@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Drain/Spill (North/South and East/West)
 
 ## Infrastructure-Autonomic

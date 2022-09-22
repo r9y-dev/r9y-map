@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Empowered reliability staff
 Authority that matches responsibility
 

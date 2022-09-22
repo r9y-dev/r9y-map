@@ -1,3 +1,6 @@
+---
+type: post
+---
 # High Context Behaviors
 
 (TODO: james?)
