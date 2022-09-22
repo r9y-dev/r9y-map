@@ -11,5 +11,5 @@ cat topics.txt | while read line;
         line="${line//(/_}"; # drop parens because URLs
         line="${line//)/_}"; # drop parens because URLs
         line="${line//__/_}"; # dedupe underscores after all that
-        echo "- [$line](${line}.md)\n"
+        echo "- [$line](${line}.md)"
     done
