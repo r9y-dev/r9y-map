@@ -1,28 +1,13 @@
-# Topic Name
+# Internal Rate Limiting
 
-Foo the Bar
+Rate limiting of "East-West" traffic, or requests between services within an application.  Being able to limit internal traffic allows for finer grained control of capacity issues due to fan-out or other internal traffic amplifiers.
 
-## Era
+Related Products:
 
-Reactive
+Prerequisites:
 
-## Lane
+Next:
 
-Observability
+Related Terms:
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+- External Rate Limiting

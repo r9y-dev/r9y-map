@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>External Rate Limiting | r9y-map</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="External Rate Limiting" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/External_Rate_Limiting.html" />
+<meta property="og:url" content="http://localhost:4000/External_Rate_Limiting.html" />
+<meta property="og:site_name" content="r9y-map" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="External Rate Limiting" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"External Rate Limiting","url":"http://localhost:4000/External_Rate_Limiting.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=1a5388c73c40df5871c7b04c3153d8841755794b">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/assets/js/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/assets/css/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#353535">
+<meta name="msapplication-navbutton-color" content="#353535">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
+
+
+<!-- Setup Google Analytics -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DLHPSNJ96L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DLHPSNJ96L');
+</script>
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <ul>
+            <li class="fork"><a href="https://github.com/r9y-dev/r9y-map">View On GitHub</a></li>
+            
+          </ul>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>r9y-map</h1>
+          <p></p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/r9y-dev">r9y-dev</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+
+        <h1 id="external-rate-limiting">External Rate Limiting</h1>
+
+<p>The ability to control the amount of traffic that enters a system from the outside.  Generally this can be considered traffic from an external loadbalancer or proxy, representing user traffic.  This might also be considered for traffic from other services, operated by other teams, but still within a single organization or product.</p>
+
+<p>Such rate limiting might be done per-system, per-location, per-shard, or even per-instance (compute node).  Coordination between elements or pre-defined limits might be used to determine what rate traffic might be limited, as well as what is done with excess traffic.</p>
+
+<p>Methods for rate limiting might be “client pushback” wherein client code is made aware of a signal that can be offered by a service to tell clients “please slow down” or “try back later”.  Alternatively, if a client is not controllable, simply responding with errors or dropping requests or connections entirely (eg TCP RST) may suffice.</p>
+
+<p>Related Products:</p>
+
+<p>Prerequisites:</p>
+
+<p>Next:</p>
+
+<p>Related Terms:</p>
+
+<ul>
+  <li>Client pushback</li>
+  <li>Retry with Jitter</li>
+</ul>
+
+
+      </section>
+
+    </div>
+  </body>
+</html>

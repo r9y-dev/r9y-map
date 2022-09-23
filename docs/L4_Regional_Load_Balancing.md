@@ -1,28 +1,13 @@
-# Topic Name
+# L4 Regional Load Balancing
 
-Foo the Bar
+Load balancing of "North-South" traffic, or user traffic as entering from the Internet.  L4 Loadbalancing separates traffic at the TCP layer, allowing multiple higher-level protocols to be balanced.  However, it cannot distinguish between elements in those higher protocols (eg: HTTP path, parameters)
 
-## Era
+This is generally done by providing a single endpoint which maps to a list of backend host:port pairs in the same datacenter, region, or zone.
 
-Reactive
+Related Products:
 
-## Lane
+Prerequisites:
 
-Observability
+Next:
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

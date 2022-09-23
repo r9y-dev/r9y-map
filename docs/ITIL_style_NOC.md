@@ -1,28 +1,13 @@
-# Topic Name
+# ITIL style NOC
 
-Foo the Bar
+A centralized Network Operations Center provides a single place to manage a variety of services and infrastructure, applying policy consistently as well as handling incident response in a consistent way.
 
-## Era
+This method works well for complicated systems, but degrades with faster-moving complex systems.  It also tends to devolve into a model of trying to minimize operational cost and complexity by requiring large amounts of operational documentation to be executed by operators not familiar with a system.
 
-Reactive
+Related Products:
 
-## Lane
+Prerequisites:
 
-Observability
+Next:
 
-## Description
-
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+Related Terms:

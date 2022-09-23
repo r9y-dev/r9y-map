@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Automatic Rollbacks | r9y-map</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="Automatic Rollbacks" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/Automatic_Rollbacks.html" />
+<meta property="og:url" content="http://localhost:4000/Automatic_Rollbacks.html" />
+<meta property="og:site_name" content="r9y-map" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Automatic Rollbacks" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Automatic Rollbacks","url":"http://localhost:4000/Automatic_Rollbacks.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=1a5388c73c40df5871c7b04c3153d8841755794b">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/assets/js/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/assets/css/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#353535">
+<meta name="msapplication-navbutton-color" content="#353535">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
+
+
+<!-- Setup Google Analytics -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DLHPSNJ96L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DLHPSNJ96L');
+</script>
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <ul>
+            <li class="fork"><a href="https://github.com/r9y-dev/r9y-map">View On GitHub</a></li>
+            
+          </ul>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>r9y-map</h1>
+          <p></p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/r9y-dev">r9y-dev</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+
+        <h1 id="automatic-rollbacks">Automatic Rollbacks</h1>
+
+<p>The ability to roll back a release that has been determined to be somehow faulty, without any human interaction.
+For example, when a release is exposed to user traffic, if the response rate violates an Availability or Latency SLO, or otherwise can be measured to be significantly underperforming, the bad release should be immediately rolled back to the previously known-good version.</p>
+
+<p>This is straight-forward for releases that have well-known characteristics of what is “good” and “bad” but can be tricky if that is harder to measure.</p>
+
+<p>This is also much easier when a release is first rolled out, harder if it is discovered near the end of a rollout.</p>
+
+<p>This implies that a release is <em>safe</em> to rollback. Data or schema changes may result in a “point of no return” that does not allow for a rollback.  These should be avoided as much as possible, but if they can’t be avoided, automatic rollbacks must be disabled for this particular release.</p>
+
+<p>Related Products: TBC</p>
+
+<p>Prerequisites: TBC</p>
+
+<p>Next: TBC</p>
+
+<p>Related terms: TBC</p>
+
+
+      </section>
+
+    </div>
+  </body>
+</html>
