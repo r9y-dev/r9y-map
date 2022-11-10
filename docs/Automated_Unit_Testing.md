@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Automated Unit Testing
 
 The capability of running unit tests automatically, without a developer explicitly kicking them off.  This can happen within an IDE, in a build system, or in a CI/CD system.

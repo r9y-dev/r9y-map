@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Design around Universal Failure Domains
 
 (why "Universal"?)

@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Basic Incident Management
 
 When introducing Incident Management, teams should just start with the basics:  Training on the role of Incident Commanders, a shared vocabulary, expected communication patterns.

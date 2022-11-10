@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Data versioning [Data Schema Versioning]
 
 ## Development-Reactive

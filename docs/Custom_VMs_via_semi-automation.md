@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Custom VMs via semi-automation
 
 Introduction of a method for creating a VM via a script, without needing a human to manually install programs or their dependencies.  This can be manually developed or use a framework built for this purpose.

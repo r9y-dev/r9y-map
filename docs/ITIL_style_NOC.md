@@ -1,3 +1,6 @@
+---
+type: post
+---
 # ITIL style NOC
 
 A centralized Network Operations Center provides a single place to manage a variety of services and infrastructure, applying policy consistently as well as handling incident response in a consistent way.

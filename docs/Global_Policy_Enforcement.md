@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Global Policy Enforcement
 
 The ability to define policy that all resources must obey or comply with.  This might be something like "encrypted network traffic" or "all containers are signed by our CA".

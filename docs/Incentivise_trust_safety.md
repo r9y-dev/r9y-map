@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Incentivise Trust & Safety
 
 While team and leaders may talk about trusting each other and safety in "speaking up" it is more effective to actually incentivise, recognize, and reward such behavior. 

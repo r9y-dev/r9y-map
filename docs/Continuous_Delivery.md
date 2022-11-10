@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Continuous Delivery
 
 Continuous delivery is the ability to release changes of all kinds on demand quickly, safely, and sustainably.

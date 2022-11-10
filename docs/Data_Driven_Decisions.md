@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Data Driven Decisions
 
 A cultural change where a team will explicitly agree to (and will enforce amongst themselves) make decisions in a transparent and data-driven manner.  That is, to provide rationale for decisions that can be tracked back to measurable facts, not guesses, gut, or hope.

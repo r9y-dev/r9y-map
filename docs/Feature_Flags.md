@@ -1,3 +1,6 @@
+---
+type: post
+---
 # Feature Flags -> Feature Toggles
 
 ## Development-Reactive

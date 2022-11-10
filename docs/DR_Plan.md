@@ -1,3 +1,6 @@
+---
+type: post
+---
 # DR Plan
 
 The initial creation of a Disaster Recovery (DR) plan.  By identifying the data, software, and configuration that is critical for your business to continue and identifying the ways that it may be lost, you should develop a system of backup and/or replication of that data, software, and configuration that will result in your ability to survive a disaster as identified in the Plan.

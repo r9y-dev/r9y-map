@@ -1,3 +1,12 @@
+IDXFILE="docs/index.md"
+
+cat << EOH > $IDXFILE
+---
+title: r9y Documentation
+type: post
+---
+EOH
+
 cat topics.txt | while read line;
     do 
         # echo "##$line##"  # debug
@@ -11,5 +20,5 @@ cat topics.txt | while read line;
         line="${line//(/_}"; # drop parens because URLs
         line="${line//)/_}"; # drop parens because URLs
         line="${line//__/_}"; # dedupe underscores after all that
-        echo "- [$line](${line}.md)\n"
+        echo "- [$line](${line}.md)" >> $IDXFILE
     done
