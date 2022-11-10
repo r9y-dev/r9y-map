@@ -1,31 +1,21 @@
 ---
 type: post
 ---
-# Topic Name
+# Incentivise Trust & Safety
 
-Foo the Bar
+While team and leaders may talk about trusting each other and safety in "speaking up" it is more effective to actually incentivise, recognize, and reward such behavior. 
 
-## Era
+Examples:
 
-Reactive
+- Blameless Postmortems, Blame-free culture around incedent response
+- A culture of Design Doc reviews. Getting feedback from team members during design phase.
 
-## Lane
+Antipatterns / Warning Signs:
 
-Observability
+- People are commonly fired after outages.
+- People are reluctant to point out failures.
+- People don't talk "up" about problems, hiding the true nature of a system from its leaders.
 
-## Description
+Related Terms:
 
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
+- Blameless Postmortems
