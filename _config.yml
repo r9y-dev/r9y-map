@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+
+analytics:
+  provider: google
+  google:
+    tracking_id: G-DLHPSNJ96L
