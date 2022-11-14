@@ -1,31 +1,17 @@
 ---
 type: post
 ---
-# Topic Name
+# Smoke Tests
 
-Foo the Bar
+A basic set of tests which can be run after an update is releases to confirm the application is functionally correct, especially checking new functionality does what's expected, and existing functionality isn't broken.
 
-## Era
+Typically run manually, executing the basic functions of the application, to verify health and availability.
 
-Reactive
+Related Products: 
 
-## Lane
+Prerequisites: 
 
-Observability
+Next: 
 
-## Description
+Related Terms:
 
-lorus ipsum
-
-### Related Products
-
-- foo
-- bar
-
-### Predicates
-
-- Pottery
-
-### Unlocks
-
-- N+2 Thinking
