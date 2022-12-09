@@ -181,6 +181,7 @@ type: post
 - [R9y_Embedded_in_High_Level_Strategy_and_Operations](R9y_Embedded_in_High_Level_Strategy_and_Operations.md)
 - [Advanced_Cost_Optimization](Advanced_Cost_Optimization.md)
 - [Focus_on_prevention_and_near_misses_instead_of_outages](Focus_on_prevention_and_near_misses_instead_of_outages.md)
+- [Infrastructure_as_code](Infrastructure_as_code.md)
 - [TODO_Lists](TODO_Lists.md)
 - [Waterfall_Projects_PMO](Waterfall_Projects_PMO.md)
 - [SMART_Goals](SMART_Goals.md)
