@@ -197,7 +197,6 @@ Empowered R9y staff
 R9y Embedded in High Level Strategy and Operations
 Advanced Cost Optimization
 Focus on prevention and near misses instead of outages
-
 TODO Lists
 Waterfall Projects/PMO
 SMART Goals
