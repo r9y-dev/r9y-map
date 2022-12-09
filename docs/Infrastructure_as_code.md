@@ -1,6 +1,7 @@
 ---
 type: post
 ---
+# Infrastructure as code
 
 One of the main benefits is that it allows for the creation and management of infrastructure in a consistent and repeatable manner. This can help to reduce the risk of errors and ensure that the infrastructure is consistently configured to meet the organization's needs.
 
