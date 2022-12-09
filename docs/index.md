@@ -58,7 +58,7 @@ type: post
 - [DNS__SImple_LB](DNS__SImple_LB.md)
 - [Basic_linear_capacity_projection](Basic_linear_capacity_projection.md)
 - [Advanced_Loadbalancing](Advanced_Loadbalancing.md)
-- [IaC_Infrastructure_as_Code](IaC.md)
+- [IaC](IaC.md)
 - [Understand_Infrastructure_Failure_Domains](Understand_Infrastructure_Failure_Domains.md)
 - [Auto_Failover](Auto_Failover.md)
 - [Failure_Testing_in_Prod](Failure_Testing_in_Prod.md)
