@@ -7,7 +7,7 @@ Continuous delivery is the ability to release changes of all kinds on demand qui
 
 <https://cloud.google.com/architecture/devops/devops-tech-continuous-delivery>
 
-Related Products: CircleCI, split.io, GitHub, GitLab, Jenkins
+Related Products: CircleCI, split.io, GitHub, GitLab, Jenkins, Harness CD
 
 Prerequisites: Continuous Integration
 
