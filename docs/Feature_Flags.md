@@ -7,7 +7,7 @@ type: post
 
 Description:  Logically separating features from releases. This allows a release to be deployed on a separate schedule from the enablement of a feature or product release. https://en.wikipedia.org/wiki/Feature_toggle 
 
-Related Products: none
+Related Products: Harness Feature Flags
 
 Prerequisites: none
 

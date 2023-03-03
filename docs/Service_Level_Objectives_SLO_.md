@@ -19,6 +19,7 @@ Related Products: Many monitoring and observability vendors provide SLO products
 - Datadog
 - NewRelic
 - Noble9
+- Harness SRM
 
 Open Source implementations are also available:
 

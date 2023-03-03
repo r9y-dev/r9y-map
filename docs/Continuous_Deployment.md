@@ -7,7 +7,7 @@ Continuous deployment is when teams try to deploy every code change to productio
 
 <https://en.wikipedia.org/wiki/Continuous_deployment>
 
-Related Products: CircleCI, split.io, GitHub, GitLab, Jenkins
+Related Products: CircleCI, split.io, GitHub, GitLab, Jenkins, Harness CD
 
 Prerequisites: Continuous Integration, Continuous Deployment
 

@@ -7,7 +7,7 @@ A canary rollout is a deployment strategy where the operator releases a new vers
 https://martinfowler.com/bliki/CanaryRelease.html 
 https://sre.google/workbook/canarying-releases/ 
 
-Related Products: TBC
+Related Products: Harness CD
 
 Prerequisites: CI, Version Compatibility, Percent-based Traffic Steering
 

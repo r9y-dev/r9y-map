@@ -12,7 +12,7 @@ This is also much easier when a release is first rolled out, harder if it is dis
 
 This implies that a release is *safe* to rollback. Data or schema changes may result in a "point of no return" that does not allow for a rollback.  These should be avoided as much as possible, but if they can't be avoided, automatic rollbacks must be disabled for this particular release.
 
-Related Products: TBC
+Related Products: Harness CD
 
 Prerequisites: TBC
 
