@@ -1,3 +1,4 @@
 _site/*
+.obsidian/*
 .jekyll-cache
 Gemfile.lock
