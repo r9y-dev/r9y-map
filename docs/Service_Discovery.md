@@ -28,8 +28,4 @@ Service discovery is a powerful tool that SREs can use to improve the reliabilit
 
 #### Sources
 
-[info](https://bard.google.com/faq#citation)
-
 1.  [en.wikipedia.org/wiki/Service_discovery](https://en.wikipedia.org/wiki/Service_discovery)
-    
-2.  [en.wikipedia.org/wiki/Service_discovery#:~:text=Unsourced%20material%20may%20be%20challenged%20and%20removed.&text=Service%20discovery%20is%20the%20process,need%20for%20continuous%20user%20intervention.](https://en.wikipedia.org/wiki/Service_discovery#:~:text=Unsourced%20material%20may%20be%20challenged%20and%20removed.&text=Service%20discovery%20is%20the%20process,need%20for%20continuous%20user%20intervention.)
