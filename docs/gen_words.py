@@ -1,5 +1,8 @@
+import os
+import time
 import vertexai
 from vertexai.preview.generative_models import GenerativeModel, ChatSession
+from vertexai.preview.generative_models import ResponseBlockedError
 
 # TODO(developer): Update and un-comment below lines
 project_id = "smcghee-cloud-demos"
@@ -66,6 +69,23 @@ lines = [line.strip() for line in lines]
 #for line in ['Automatic Rollbacks', "CI/CD"]:
 output = []
 for line in lines:
+    if line == "" or line.startswith("#"):
+        print ("skipping blank input")
+        continue
+
+    if line == "Smoke Tests":
+        print ("skipping Smoke Tests for Reasons")
+        continue
+
+    # check if file exists
+
+    filename = "new/" + make_valid_filename(line) + ".md"
+    if os.path.exists(filename):
+      print("The file %s already exists." % filename)
+      continue
+    else:
+      print("The file %s does not exist." % filename)
+    
     
     # reset history, output, prompt eng
     chat = initChat()
@@ -76,7 +96,16 @@ for line in lines:
     output.append(title)
     prompt = line
     print ("--> asking: %s" % prompt)
-    response = get_chat_response(chat, prompt)
+    try:
+        response = get_chat_response(chat, prompt)
+    except ResponseBlockedError as e:
+        print("Response blocked: %s" % e)
+        wait_time = 2
+        print("Waiting for %s seconds" % wait_time)
+        time.sleep(wait_time)
+        response = get_chat_response(chat, prompt)
+    except Exception as e:
+        print("Exception: %s" % e)
     output.append(response)
 
     output.append("## " + "Related Tools and Products" + "\n")
@@ -96,7 +125,6 @@ for line in lines:
     output.append(get_chat_response(chat, prompt))
 
     # write this out to a file:
-    filename = "new/" + make_valid_filename(line) + ".md"
     with open(filename, "a") as f:
         f.writelines(output)
     f.close()
