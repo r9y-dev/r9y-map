@@ -45,14 +45,15 @@ def make_valid_filename(s):
 
 def initChat():
     chat = model.start_chat()
-    prompt = "Hello."
-    print(get_chat_response(chat, prompt))
+    
+    # silently initialize
+    #prompt = "Hello."
+    #get_chat_response(chat, prompt)
     # prompt engineering
     prompt = "You're an expert in Site Reliability Engineering, Software Engineering, DevOps, and Platform Engineering."
-    print(get_chat_response(chat, prompt))
-
+    get_chat_response(chat, prompt)
     prompt = "For each term I ask about, please provide a definition in less than 200 words, and cite examples or references as much as possible."
-    print(get_chat_response(chat, prompt))
+    get_chat_response(chat, prompt)
 
     return chat
 
