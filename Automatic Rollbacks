@@ -1,0 +1,81 @@
+# Automatic Rollbacks
+**Definition:** Automatic rollbacks are a feature of deployment systems that allow for the automatic reversion of a deployment to a previous state in the event of a failure. This is typically achieved by maintaining a history of previous deployments and the ability to roll back to any of these previous states.
+
+**Examples:**
+
+* In a continuous deployment pipeline, automatic rollbacks can be used to automatically revert a deployment to the previous version if the new version causes errors or performance issues.
+* In a cloud-native environment, automatic rollbacks can be used to roll back a deployment to a previous state if there is a problem with the underlying infrastructure.
+
+**References:**
+
+* [Automatic Rollbacks in Jenkins](https://www.jenkins.io/doc/pipeline/steps/rollback/)
+* [Automatic Rollbacks in Kubernetes](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#rollbacks)
+
+**How Automatic Rollbacks Work:**
+
+Automatic rollbacks typically work by maintaining a history of previous deployments. This can be done using a variety of methods, such as storing the previous deployment artifacts in a repository or using a database to track the history of deployments.
+
+When a new deployment is triggered, the deployment system will typically create a new entry in the deployment history. This entry will include information about the deployment, such as the version of the application being deployed, the time of the deployment, and any other relevant information.
+
+If the deployment fails or causes problems, the deployment system can be instructed to roll back to a previous state. This is typically done by selecting a previous entry in the deployment history and then deploying that version of the application.
+
+Automatic rollbacks can be a valuable tool for ensuring the reliability and stability of deployments. By allowing for the automatic reversion of deployments to a previous state, automatic rollbacks can help to mitigate the impact of deployment failures and reduce downtime.## Related Tools and Products
+Here are some tools and products that can help with Automatic Rollbacks:
+
+* **Jenkins:** Jenkins is a popular open-source continuous integration and continuous delivery (CI/CD) tool. It has a built-in rollback plugin that allows users to automatically roll back deployments to a previous state in the event of a failure.
+* **Kubernetes:** Kubernetes is a popular open-source container orchestration platform. It has built-in rollback capabilities that allow users to automatically roll back deployments to a previous state in the event of a failure.
+* **Spinnaker:** Spinnaker is an open-source continuous delivery platform that can be used to automate the deployment of applications. It has built-in rollback capabilities that allow users to automatically roll back deployments to a previous state in the event of a failure.
+* **Blue/Green Deployment:** Blue/Green deployment is a deployment strategy that involves running two identical production environments side-by-side. When a new version of the application is ready to be deployed, it is deployed to the green environment. If the deployment is successful, the green environment becomes the new production environment and the blue environment is decommissioned. If the deployment fails, the blue environment remains the production environment and the green environment is decommissioned. Blue/Green deployment can be implemented using a variety of tools and products, including Kubernetes and Spinnaker.
+* **Canary Deployment:** Canary deployment is a deployment strategy that involves deploying a new version of the application to a small subset of users. If the deployment is successful, the new version is gradually rolled out to more users. If the deployment fails, the new version is rolled back and the old version remains in production. Canary deployment can be implemented using a variety of tools and products, including Kubernetes and Spinnaker.
+
+In addition to these tools and products, there are a number of best practices that can be followed to improve the reliability and effectiveness of automatic rollbacks:
+
+* Maintain a history of previous deployments.
+* Test deployments thoroughly before promoting them to production.
+* Monitor deployments closely for errors or performance issues.
+* Have a rollback plan in place before deploying new versions of applications.
+
+By following these best practices and using the right tools and products, organizations can improve the reliability and stability of their deployments and reduce the risk of downtime.## Related Terms
+Here are some related terms to Automatic Rollbacks:
+
+* **Blue/Green Deployment:** Blue/Green deployment is a deployment strategy that involves running two identical production environments side-by-side. When a new version of the application is ready to be deployed, it is deployed to the green environment. If the deployment is successful, the green environment becomes the new production environment and the blue environment is decommissioned. If the deployment fails, the blue environment remains the production environment and the green environment is decommissioned.
+* **Canary Deployment:** Canary deployment is a deployment strategy that involves deploying a new version of the application to a small subset of users. If the deployment is successful, the new version is gradually rolled out to more users. If the deployment fails, the new version is rolled back and the old version remains in production.
+* **Continuous Delivery:** Continuous delivery is a software development practice that involves building, testing, and deploying software on a regular basis. Continuous delivery is often used in conjunction with automatic rollbacks to ensure that new versions of applications can be deployed quickly and reliably.
+* **Continuous Integration:** Continuous integration is a software development practice that involves integrating changes from multiple developers into a single source code repository on a regular basis. Continuous integration is often used in conjunction with continuous delivery and automatic rollbacks to ensure that new versions of applications are built and tested regularly.
+* **Deployment Pipeline:** A deployment pipeline is a set of automated steps that are used to deploy software from development to production. Deployment pipelines often include steps for building, testing, and deploying software, as well as steps for rolling back deployments if they fail.
+* **Disaster Recovery:** Disaster recovery is the process of restoring a system or application to a functional state after a disaster or failure. Disaster recovery plans often include steps for rolling back deployments to a previous state.
+* **Fault Tolerance:** Fault tolerance is the ability of a system or application to continue operating in the event of a failure. Fault tolerance can be achieved through a variety of mechanisms, including redundancy, failover, and automatic rollbacks.
+* **High Availability:** High availability is the ability of a system or application to be available for use at all times. High availability can be achieved through a variety of mechanisms, including redundancy, failover, and automatic rollbacks.
+
+These related terms are all related to the concept of ensuring the reliability and stability of software deployments. By understanding these terms and how they relate to automatic rollbacks, organizations can improve the quality and reliability of their software deployments.## Prerequisites
+Before you can do Automatic Rollbacks, you need to have the following in place:
+
+* **Version Control:** You need to be using a version control system, such as Git, to track changes to your codebase. This will allow you to easily roll back to a previous version of your code if necessary.
+* **Deployment History:** You need to maintain a history of your deployments. This can be done using a variety of methods, such as storing the previous deployment artifacts in a repository or using a database to track the history of deployments.
+* **Automated Testing:** You need to have automated tests in place to test your code before it is deployed. This will help to catch any errors or performance issues before they reach production.
+* **Rollback Plan:** You need to have a rollback plan in place before deploying new versions of your application. This plan should include instructions on how to roll back to a previous version of your application in the event of a failure.
+* **Monitoring:** You need to monitor your deployments closely for errors or performance issues. This will allow you to quickly identify any problems and take corrective action.
+
+In addition to these technical requirements, you also need to have a culture of continuous learning and improvement in place. This means being willing to learn from mistakes and make changes to your processes and procedures to improve the reliability and stability of your deployments.
+
+By having these things in place, you can ensure that you are able to perform Automatic Rollbacks quickly and effectively in the event of a failure.
+
+Here are some additional recommendations:
+
+* Use a deployment tool that supports automatic rollbacks.
+* Test your rollback procedures regularly to ensure that they work as expected.
+* Educate your team on the importance of automatic rollbacks and how to use them effectively.
+
+By following these recommendations, you can improve the reliability and stability of your deployments and reduce the risk of downtime.## What's next?
+After you have Automatic Rollbacks in place, there are a number of things you can do to further improve the reliability and stability of your deployments:
+
+* **Monitor your deployments closely:** Even with Automatic Rollbacks in place, it is important to monitor your deployments closely for errors or performance issues. This will allow you to quickly identify any problems and take corrective action.
+* **Test your rollback procedures regularly:** It is also important to test your rollback procedures regularly to ensure that they work as expected. This will help you to identify any potential problems with your rollback procedures before they cause an outage.
+* **Educate your team on the importance of Automatic Rollbacks:** It is important to educate your team on the importance of Automatic Rollbacks and how to use them effectively. This will help to ensure that everyone on your team is aware of the benefits of Automatic Rollbacks and how to use them to improve the reliability and stability of your deployments.
+* **Use a deployment tool that supports canary deployments:** Canary deployments are a great way to test new versions of your application in a production-like environment before rolling them out to all of your users. By using a deployment tool that supports canary deployments, you can reduce the risk of deploying a new version of your application that causes problems.
+* **Implement feature flags:** Feature flags allow you to enable or disable features in your application without having to deploy a new version of your application. This can be useful for testing new features or rolling back features that are causing problems.
+* **Use a chaos engineering tool:** Chaos engineering is the practice of injecting failures into your system in a controlled manner in order to identify and fix weaknesses. By using a chaos engineering tool, you can proactively identify and fix potential problems with your system before they cause an outage.
+
+By following these recommendations, you can further improve the reliability and stability of your deployments and reduce the risk of downtime.
+
+In addition to these technical measures, it is also important to have a culture of continuous learning and improvement in place. This means being willing to learn from mistakes and make changes to your processes and procedures to improve the reliability and stability of your deployments.
