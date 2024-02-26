@@ -1,7 +1,7 @@
 ---
 type: post
 ---
-# Smoke Tests
+# Smoke Tests (To be updated)
 
 Smoke tests are a type of software testing that verifies the basic functionality of a system or application. They are typically performed after a new build or deployment to ensure that the system is still working as expected. Smoke tests are designed to be quick and easy to run, and they typically only cover the most critical functionality of the system.
 
