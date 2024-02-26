@@ -69,7 +69,7 @@ N+2 Thinking
 N+2 Global Planning
 
 Pet Host
-1+ computer
+A single computer
 distributed storage
 alternate site replication
 Cattle Infrastructure
