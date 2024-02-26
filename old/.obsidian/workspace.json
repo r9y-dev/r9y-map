@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "2ae13cea401cd99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "623ef2efa753bc87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42b10f9d0cb9d45c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d67bbd095d7c25e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ec4dfc3bb078d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5381786ee2d200ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43d1dfff9e284ce5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "service discovery",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6001cef87fc30a8a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e814a3cfc0be18ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb1b970cf6e4708b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c664f5a38b2d9ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85b3f9ffad825bc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c82e3f9112f62f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef7d7a9caad18000",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "599afe151390128d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4a83cd2ca40c1b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "42b10f9d0cb9d45c",
+  "lastOpenFiles": [
+    "Automatic_Rollbacks.md",
+    "__pycache__/gen_words.cpython-311.pyc",
+    "__pycache__",
+    "filename_test.py",
+    "gen_words.py",
+    "Automation_of_Toil.md",
+    "Auto_Scaling.md",
+    "Auto_Failover.md",
+    "Anomaly_Detection.md",
+    "Canary_Deployments.md",
+    "APM_Metrics_and_Traces.md",
+    "Waterfall_Projects_PMO.md",
+    "Self_Driven_Checklist_Launches.md",
+    "Basic_linear_capacity_projection.md",
+    "index.md",
+    "Service_Discovery.md",
+    "README.md",
+    "Service_Ownership.md",
+    "Smoke_Tests.md",
+    "Active_Active_Datastores.md",
+    "Off-host_backup.md",
+    "IaC.md",
+    "Automated_Unit_Testing.md",
+    "Formal_methods_e.g._TLA_.md",
+    "functional_tests.md",
+    "Fuzz_Testing.md",
+    "Global_Policy_Enforcement.md",
+    "Goals_Objectives_OKRs.md",
+    "Gold_Image_Automation.md"
+  ]
+}
