@@ -2,31 +2,27 @@
 
 **High Water Mark Prediction:**
 
-High water mark prediction involves forecasting the highest water level that will occur during a specific time period, typically a tidal cycle or storm event. It is crucial for coastal management, flood control, and navigation safety.
+* The ability to reasonably accurately predict the high water mark capacity for a system, i.e. the capacity beyond which it will stop or seriously degrade functioning. This originates from the physical concept of high water mark prediction, which involves forecasting the highest water level that will occur during a specific time period, typically a tidal cycle or storm event.
 
-**Methods for High Water Mark Prediction:**
+**How high water marks are used:**
 
-* **Tide Prediction Models:** These models use historical tide data and astronomical factors to predict the timing and height of future tides. Examples include the XTide model and the Admiralty Tide Tables.
+* High water marks are used in system performance monitoring to track the peak usage or demand of a particular resource over a given period. This information can be invaluable for capacity planning, troubleshooting performance bottlenecks, and optimizing resource allocation.
 
-* **Storm Surge Models:** These models simulate the behavior of storm surges, which are abnormal rises in sea level caused by storms. Examples include the SLOSH model and the ADCIRC model.
+* Identifying Peak Usage: High water marks record the highest value reached by a specific metric, such as CPU utilization, memory usage, network bandwidth, or disk I/O. By tracking these peaks, administrators can identify the maximum resource demands placed on the system.
 
-* **Machine Learning and AI:** Machine learning algorithms can be trained on historical data to predict high water marks. AI techniques, such as deep learning, can improve the accuracy of these predictions.
+* Capacity Planning: High water marks provide insights into how close the system is operating to its limits. This information can help determine whether the system has sufficient capacity to handle future growth or if additional resources are needed.
 
-**Applications of High Water Mark Prediction:**
+* Troubleshooting Performance Bottlenecks: By comparing high water marks of different resources, administrators can pinpoint which components are causing performance bottlenecks. For example, if the high water mark for CPU utilization is consistently high while other resources have ample capacity, it suggests that the CPU is the limiting factor.
 
-* **Coastal Management:** High water mark predictions help determine setbacks for coastal development, design coastal structures, and manage erosion control projects.
+* Optimizing Resource Allocation: High water marks can help identify underutilized resources. If a resource's high water mark is significantly lower than its maximum capacity, it indicates that the resource is not being fully utilized and could potentially be allocated elsewhere.
 
-* **Flood Control:** Accurate predictions are essential for flood warning systems, evacuation planning, and emergency response.
+* Setting Thresholds: High water marks can be used to establish thresholds for alerts or automated actions. For example, if the high water mark for memory usage exceeds a certain threshold, an alert can be triggered to notify administrators, or an automated action can be taken to free up memory.
 
-* **Navigation Safety:** Mariners rely on high water mark predictions to plan safe routes and avoid hazardous conditions.
+**Examples of High Water Mark Usage:**
 
-**Examples and References:**
-
-* [NOAA Tides & Currents](https://tidesandcurrents.noaa.gov/): Provides tide predictions for locations around the world.
-
-* [National Hurricane Center Storm Surge Unit](https://www.nhc.noaa.gov/surge/): Offers storm surge predictions for coastal areas in the United States.
-
-* [High Water Mark Prediction Using Machine Learning](https://arxiv.org/abs/1902.07218): A research paper exploring the use of machine learning for high water mark prediction.
+* Database Systems: High water marks can track the maximum number of concurrent connections, the highest amount of memory used, or the peak transaction throughput.
+* Web Servers: High water marks can monitor the maximum number of simultaneous requests, the highest CPU utilization, or the peak network traffic.
+* Virtual Machines: High water marks can track the maximum CPU, memory, and disk usage of virtual machines, helping identify resource contention and optimize resource allocation.
 
 ## Related Tools and Products
 
