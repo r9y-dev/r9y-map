@@ -1,4 +1,4 @@
-# % Based Traffic Steering
+# Percent-Based Traffic Steering
 
 **Percent-Based Traffic Steering**
 

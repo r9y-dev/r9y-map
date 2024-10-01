@@ -25,11 +25,11 @@ Sharded Data
 
 Manual Tests
 Code Version Control
-functional tests
-semi automated integration
+Functional tests
+Semi automated integration
 Data versioning
-traffic shifting
-instrumentation for in process traces
+Traffic shifting
+Instrumentation for in process traces
 Backwards Version Compatibility by default
 Canary Deployments
 Left Shift QA testing (SDET)
@@ -38,14 +38,14 @@ Multi Cluster Rollout Policy
 Universal Smart Retries
 Sharded Serving
 
-manual integration tests
-regular release cadence
-containers
+Manual integration tests
+Regular release cadence
+Containers
 Blue Green Deployments
 Fuzz Testing
 Distributed systems (no active/passive)
 Automatic assured capacity and performance testing
-andon cord/big red button
+Andon cord/big red button
 Code Quality Threshold (code reuse preferred)
 
 Low Context Architecture
@@ -70,8 +70,8 @@ N+2 Global Planning
 
 Pet Host
 A single computer
-distributed storage
-alternate site replication
+Distributed storage
+Alternate site replication
 Cattle Infrastructure
 Container Orchestrator
 Auto Scaling
@@ -102,7 +102,7 @@ DR plan tested periodically
 Continuous Integration
 Continuous Delivery
 Regular BCP Testing (run from alternate site)
-% Based Traffic Steering
+Percent Based Traffic Steering
 Active Active Datastores
 Internal Rate Limiting
 Autonomous Response Systems
@@ -153,7 +153,7 @@ Internal SLAs
 Error Budgets
 Custom In Process Tracing
 Cross Service Transaction Testing
-"Multi Machine Debugging
+Multi Machine Debugging
 Anomaly Detection
 Observability Integration Across Tools
 

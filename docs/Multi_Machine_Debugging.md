@@ -1,4 +1,4 @@
-# "Multi Machine Debugging
+# Multi Machine Debugging
 
 **Multi Machine Debugging:**
 
