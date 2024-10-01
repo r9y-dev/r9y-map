@@ -66,7 +66,7 @@ type: post
 - [N_2_Thinking](N_2_Thinking.md)
 - [N_2_Global_Planning](N_2_Global_Planning.md)
 - [Pet_Host](Pet_Host.md)
-- [1_computer](1_computer.md)
+- [A_single_computer](A_single_computer.md)
 - [Distributed_storage](Distributed_storage.md)
 - [Alternate_site_replication](Alternate_site_replication.md)
 - [Cattle_Infrastructure](Cattle_Infrastructure.md)
