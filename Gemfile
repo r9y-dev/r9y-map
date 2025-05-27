@@ -7,7 +7,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.2"
 gem "jekyll-include-cache", group: :jekyll_plugins
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
 
 gem "jekyll-paginate", "~> 1.1", group: :jekyll_plugins
 
