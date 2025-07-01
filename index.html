@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reliability Engineering Maturity Model</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #333;
+        }
+        
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            max-width: 600px;
+            margin: 20px;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 28px;
+            font-weight: 600;
+        }
+        
+        .subtitle {
+            color: #7f8c8d;
+            margin-bottom: 40px;
+            font-size: 16px;
+        }
+        
+        .view-options {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .view-card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px 20px;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .view-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+            border-color: #3498db;
+        }
+        
+        .view-card h3 {
+            margin: 0 0 10px 0;
+            color: #2c3e50;
+            font-size: 20px;
+        }
+        
+        .view-card p {
+            margin: 0;
+            color: #7f8c8d;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        
+        .icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+            display: block;
+        }
+        
+        .original { color: #e74c3c; }
+        .graph { color: #3498db; }
+        
+        .features {
+            text-align: left;
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        
+        .features h4 {
+            margin: 0 0 10px 0;
+            color: #2c3e50;
+        }
+        
+        .features ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+        
+        .features li {
+            margin: 5px 0;
+            color: #7f8c8d;
+            font-size: 13px;
+        }
+        
+        @media (max-width: 768px) {
+            .view-options {
+                grid-template-columns: 1fr;
+            }
+            
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Reliability Engineering Maturity Model</h1>
+        <p class="subtitle">Choose your preferred visualization</p>
+        
+        <div class="view-options">
+            <a href="beck/map.html" class="view-card">
+                <span class="icon original">🗺️</span>
+                <h3>Original Map View</h3>
+                <p>Traditional isometric visualization with detailed progression through reliability maturity levels</p>
+                <div class="features">
+                    <h4>Features:</h4>
+                    <ul>
+                        <li>Isometric 3D-style layout</li>
+                        <li>Detailed progression paths</li>
+                        <li>Era-based organization</li>
+                        <li>Original design patterns</li>
+                    </ul>
+                </div>
+            </a>
+            
+            <a href="beck/graph-view.html" class="view-card">
+                <span class="icon graph">📊</span>
+                <h3>Graph View (New)</h3>
+                <p>Modern interactive graph showing documents as nodes with clear relationships and grid organization</p>
+                <div class="features">
+                    <h4>Features:</h4>
+                    <ul>
+                        <li>Interactive node-based layout</li>
+                        <li>Color-coded sections</li>
+                        <li>Relationship visualization</li>
+                        <li>Zoom & pan navigation</li>
+                        <li>Hover tooltips</li>
+                        <li>Modern responsive design</li>
+                    </ul>
+                </div>
+            </a>
+        </div>
+        
+        <p style="color: #7f8c8d; font-size: 12px; margin-top: 20px;">
+            Both views use the same underlying data but offer different perspectives on the reliability engineering maturity model.
+        </p>
+    </div>
+</body>
+</html>
