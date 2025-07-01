@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reliability Engineering Maturity Model - Graph View</title>
+    <link rel="stylesheet" href="graph-view.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div id="header">
+        <h1>Reliability Engineering Maturity Model</h1>
+        <div id="controls">
+            <button id="resetZoom">Reset View</button>
+            <button id="toggleConnections">Toggle Connections</button>
+            <div id="legend">
+                <div class="legend-item">
+                    <div class="legend-color development"></div>
+                    <span>Development</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color infrastructure"></div>
+                    <span>Infrastructure</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color operations"></div>
+                    <span>Operations</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color observability"></div>
+                    <span>Observability</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color people"></div>
+                    <span>People</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="graph-container">
+        <svg id="graph-svg"></svg>
+    </div>
+    
+    <div id="tooltip" class="tooltip hidden">
+        <div id="tooltip-content">
+            <h3 id="tooltip-title"></h3>
+            <p id="tooltip-section"></p>
+            <p id="tooltip-level"></p>
+            <p id="tooltip-type"></p>
+            <p id="tooltip-notes"></p>
+            <div id="tooltip-connections"></div>
+        </div>
+    </div>
+
+    <script src="graph-view.js"></script>
+</body>
+</html>
