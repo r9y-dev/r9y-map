@@ -70,8 +70,6 @@ Encouraging and rewarding collaboration between different teams or departments w
 * **The Ultimate Guide to Cross-Functional Collaboration:** https://asana.com/resources/cross-functional-collaboration
 * **How to Break Down Silos and Encourage Collaboration:** https://www.forbes.com/sites/forbescoachescouncil/2022/09/27/how-to-break-down-silos-and-encourage-collaboration/?sh=4a4035667849
 
-I hope this list of tools and resources is helpful. Please let me know if you have any other questions.
-
 ## Related Terms
 
 **Related Terms to Cross-Silo Collaboration:**

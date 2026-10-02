@@ -96,8 +96,6 @@ These are just a few of the many tools and products that can be used for percent
 * **Upstream Server:** An upstream server is a server that is located in front of a backend server and forwards traffic to the backend server.
 * **Reverse Proxy:** A reverse proxy is a server that sits in front of a group of backend servers and forwards traffic to the appropriate backend server.
 
-I hope this helps!
-
 ## Prerequisites
 
 Before you can do percent-based traffic steering, you need to have the following in place:
@@ -119,8 +117,6 @@ Here are some additional considerations for percent-based traffic steering:
 * **Server weights:** You can use server weights to assign different percentages of traffic to different servers or endpoints. This can be useful for balancing traffic across servers with different capacities.
 * **Canary releases and blue-green deployments:** Percent-based traffic steering can be used to implement canary releases and blue-green deployments. This allows you to release new software in a controlled manner.
 
-I hope this helps!
-
 ## What's next?
 
 After you have percent-based traffic steering in place, there are a few things that you can do next:
@@ -135,5 +131,3 @@ Here are some additional things that you may want to consider:
 * **Use a traffic management tool:** A traffic management tool can help you to visualize and control the flow of traffic across your load balancer and servers or endpoints. This can be useful for troubleshooting problems and optimizing performance.
 * **Implement a disaster recovery plan:** A disaster recovery plan will help you to ensure that your load balancing solution is able to withstand a major disruption, such as a hardware failure or a natural disaster.
 * **Keep up with the latest trends in load balancing:** The field of load balancing is constantly evolving. New technologies and techniques are emerging all the time. It is important to stay up-to-date on the latest trends so that you can take advantage of the latest innovations.
-
-I hope this helps!

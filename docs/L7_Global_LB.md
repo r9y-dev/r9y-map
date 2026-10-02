@@ -59,8 +59,6 @@ An L7 Global LB is a load balancer that operates at the application layer (Layer
 * **Global Server Load Balancing: A Technical Overview:** https://www.citrix.com/content/dam/citrix/en_us/documents/solutions/global-server-load-balancing-technical-overview.pdf
 * **Load Balancing at Layer 7: How It Works and Why It Matters:** https://www.cloudflare.com/learning/performance/load-balancing-layer-7/
 
-I hope this information is helpful!
-
 ## Related Terms
 
 **Related Terms to L7 Global LB:**
@@ -84,8 +82,6 @@ I hope this information is helpful!
 * **Reliability:** The ability of a system to perform its intended function without failure.
 * **Security:** The protection of a system from unauthorized access or attack.
 
-I hope this information is helpful!
-
 ## Prerequisites
 
 **Prerequisites for L7 Global LB:**
@@ -107,8 +103,6 @@ I hope this information is helpful!
 * **The specific requirements of your application:** Some applications may not be suitable for L7 Global LB due to performance or security concerns.
 * **The cost-benefit analysis:** L7 Global LB can be more expensive than other load balancing solutions, so it is important to weigh the benefits against the costs.
 * **The complexity of the implementation:** L7 Global LB can be more complex to configure and manage than other load balancing solutions, so it is important to have the necessary expertise or resources.
-
-I hope this information is helpful!
 
 ## What's next?
 

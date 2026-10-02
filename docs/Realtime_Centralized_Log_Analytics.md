@@ -42,8 +42,6 @@ Real-time centralized log analytics is a process of collecting, storing, and ana
 * **Logstash Tutorial: Collect, Parse, and Store Logs:** https://www.digitalocean.com/community/tutorials/logstash-tutorial-collect-parse-and-store-logs
 * **Fluentd Tutorial: Getting Started with Log Aggregation:** https://www.digitalocean.com/community/tutorials/fluentd-tutorial-getting-started-with-log-aggregation
 
-I hope this information is helpful!
-
 ## Related Terms
 
 **Related Terms to Real-time Centralized Log Analytics:**
@@ -59,8 +57,6 @@ Other related terms include:
 * **Big data analytics:** Real-time centralized log analytics often involves analyzing large volumes of log data, which can be classified as big data.
 * **Machine learning:** Machine learning algorithms can be used to analyze log data and identify patterns and anomalies.
 * **Artificial intelligence (AI):** AI techniques can be used to automate the analysis of log data and identify actionable insights.
-
-I hope this information is helpful!
 
 ## Prerequisites
 
@@ -81,8 +77,6 @@ Here are some additional recommendations:
 * **Use a SIEM tool:** A SIEM tool can help you to collect and analyze log data from a variety of sources, including security devices. This can help you to identify and respond to security threats more quickly.
 * **Use machine learning and AI:** Machine learning and AI techniques can be used to analyze log data and identify patterns and anomalies. This can help you to identify issues more quickly and to gain insights into the performance and security of your IT infrastructure.
 
-I hope this information is helpful!
-
 ## What's next?
 
 After you have real-time centralized log analytics in place, the next steps typically involve:
@@ -97,5 +91,3 @@ In addition to these steps, you may also want to consider the following:
 * **Use log analytics to improve your security posture:** Log analytics can be used to identify security threats and vulnerabilities. By monitoring your log data for suspicious activity, you can identify and respond to threats more quickly.
 * **Use log analytics to improve your application performance:** Log analytics can be used to identify performance bottlenecks and other issues that may be affecting the performance of your applications. By analyzing your log data, you can identify and fix these issues to improve the performance of your applications.
 * **Use log analytics to gain insights into your business:** Log analytics can be used to gain insights into your business operations. By analyzing your log data, you can identify trends and patterns that may help you to improve your business processes and make better decisions.
-
-I hope this information is helpful!

@@ -52,8 +52,6 @@ Pet hosts provide a valuable service to pet owners by providing temporary housin
 * **National Association of Professional Pet Sitters (NAPPS):** NAPPS is another professional organization for pet sitters and dog walkers. NAPPS offers a variety of resources for pet hosts, including training programs, certification programs, and insurance.
 * **American Kennel Club (AKC):** The AKC is a national organization dedicated to promoting the health and well-being of dogs. The AKC offers a variety of resources for pet hosts, including training programs, certification programs, and insurance.
 
-I hope this list of tools and resources is helpful!
-
 ## Related Terms
 
 **Related Terms to Pet Host:**
@@ -69,8 +67,6 @@ I hope this list of tools and resources is helpful!
 * **Pet Host:** A pet host is a person or organization that provides temporary housing and care for pets.
 * **Pet Owner:** A pet owner is a person or organization that owns a pet.
 * **Pet:** A pet is an animal that is kept for companionship or pleasure.
-
-I hope this list of related terms is helpful!
 
 ## Prerequisites
 
@@ -89,8 +85,6 @@ I hope this list of related terms is helpful!
 * **Pet Sitting Certification:** There are a number of pet sitting certification programs available. Getting certified can help you demonstrate your knowledge and skills to potential clients.
 * **Pet CPR and First Aid Training:** It is a good idea to be trained in pet CPR and first aid. This training can help you handle medical emergencies involving pets.
 
-I hope this list is helpful!
-
 ## What's next?
 
 **After You Have Pet Host, What Comes Next?**
@@ -106,5 +100,3 @@ I hope this list is helpful!
 * **Offer Additional Services:** In addition to pet hosting, you could offer other pet care services, such as dog walking, pet sitting, or pet grooming. This can help you generate more revenue and attract more clients.
 * **Build Relationships with Local Veterinarians:** Building relationships with local veterinarians can be beneficial for your business. Veterinarians can refer clients to you and you can refer clients to them.
 * **Get Involved in the Community:** Get involved in the local pet community by attending pet events, volunteering at animal shelters, and supporting local pet businesses. This can help you raise awareness of your business and attract more clients.
-
-I hope this information is helpful!

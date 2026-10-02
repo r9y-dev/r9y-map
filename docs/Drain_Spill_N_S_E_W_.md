@@ -71,8 +71,6 @@ It is important to note that the best way to prevent drain/spill is to properly 
 * **Optical fiber:** A thin, flexible strand of glass or plastic that is used to transmit light signals.
 * **Telecommunications:** The transmission of information over long distances.
 
-I hope this list is helpful!
-
 ## Prerequisites
 
 Before you can do Drain/Spill (N/S & E/W), the following needs to be in place:
@@ -122,5 +120,3 @@ In some cases, it may be necessary to take additional steps to prevent future dr
 * [Fiber Optic Cable Bend Radius and Minimum Bend Radius](https://www.thefoa.org/tech/ref/bendradius.html)
 * [Fiber Optic Cable Installation Guidelines](https://www.commscope.com/globalassets/digizuite/documents/installation-guidelines/fiber-optic-cable-installation-guidelines-english-680620-a.pdf)
 * [Troubleshooting Fiber Optic Cable Problems](https://www.fiber-optic-solutions.com/troubleshooting-fiber-optic-cable-problems.html)
-
-I hope this information is helpful!

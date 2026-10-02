@@ -75,8 +75,6 @@ Additional related terms:
 * **Grafana:** Grafana is a visualization tool that can be used to display metrics from Prometheus and other data sources. It can be integrated with OpenTelemetry to create dashboards that provide a comprehensive view of system performance.
 * **Jaeger:** Jaeger is a distributed tracing system that can be used to trace requests across a distributed system. It can be integrated with OpenTelemetry to collect tracing data from applications and services that are instrumented with OpenTelemetry.
 
-I hope this helps! Let me know if you have any other questions.
-
 ## Prerequisites
 
 Before you can do observability integration across tools, you need to have the following in place:

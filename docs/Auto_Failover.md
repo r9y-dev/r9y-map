@@ -76,8 +76,6 @@ Auto failover is a mechanism that automatically switches traffic from a primary 
 * **Planned Failover:** A failover that is initiated manually or according to a predetermined schedule.
 * **Unplanned Failover:** A failover that is initiated automatically in response to a failure.
 
-I hope this list is helpful!
-
 ## Prerequisites
 
 Before you can implement auto failover, you need to have the following in place:

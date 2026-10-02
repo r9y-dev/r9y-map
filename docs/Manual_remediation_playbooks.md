@@ -83,8 +83,6 @@ These tools and resources can help you to create, manage, and automate your manu
 
 These terms are all related to the concept of preparing for and responding to incidents and disruptions in software systems and infrastructure. By understanding these terms and concepts, you can improve your team's ability to manage and resolve incidents effectively.
 
-I hope this helps! Let me know if you have any other questions.
-
 ## Prerequisites
 
 Before you can create and implement manual remediation playbooks, you need to have the following in place:

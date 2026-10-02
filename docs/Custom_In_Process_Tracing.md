@@ -39,8 +39,6 @@ Custom in-process tracing can be a valuable tool for debugging and performance a
 * **Distributed Tracing vs In-Process Tracing:** https://www.lightstep.com/blog/distributed-tracing-vs-in-process-tracing
 * **Custom In-Process Tracing with Micrometer:** https://micrometer.io/docs/concepts#in-process
 
-I hope this information is helpful. Please let me know if you have any other questions.
-
 ## Related Terms
 
 **Related terms to Custom In-Process Tracing:**
@@ -59,8 +57,6 @@ I hope this information is helpful. Please let me know if you have any other que
 * **Application Performance Monitoring (APM):** APM is a set of tools and techniques used to monitor the performance of software applications. APM tools can be used to collect and analyze data about an application's performance, such as response times, error rates, and resource utilization.
 * **Log Aggregation:** Log aggregation is the process of collecting and storing logs from multiple sources in a central location. Log aggregation tools can be used to analyze logs for errors, performance issues, and security events.
 * **Metrics Collection:** Metrics collection is the process of collecting and storing metrics from various sources, such as applications, servers, and network devices. Metrics collection tools can be used to monitor the performance and health of a system.
-
-I hope this information is helpful. Please let me know if you have any other questions.
 
 ## Prerequisites
 
@@ -93,8 +89,6 @@ In addition to the above, you may also need to consider the following:
 
 Once you have all of the above in place, you can start collecting custom in-process traces. This data can be used to improve the performance and reliability of your applications.
 
-I hope this information is helpful. Please let me know if you have any other questions.
-
 ## What's next?
 
 After you have custom in-process tracing in place, you can start to use the trace data to improve the performance and reliability of your applications. Some common use cases for custom in-process traces include:
@@ -119,5 +113,3 @@ Once you have started to collect custom in-process traces, you may want to consi
 * **Use a visualization tool to view and analyze the trace data.** This will make it easier to identify performance bottlenecks, errors, and other problems.
 * **Set up alerts to notify you of any potential problems.** This will help you to identify and resolve problems quickly.
 * **Use the trace data to improve the performance and reliability of your applications.** This may involve making changes to your code, your infrastructure, or your deployment process.
-
-I hope this information is helpful. Please let me know if you have any other questions.

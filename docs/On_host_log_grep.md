@@ -136,8 +136,6 @@ grep -q error /var/log/syslog
 * **Splunk:** A commercial log management and analysis platform.
 * **Graylog:** An open-source log management and analysis platform.
 
-I hope this helps!
-
 ## Prerequisites
 
 Before you can perform on-host log grep, you need to ensure the following prerequisites are in place:
@@ -158,8 +156,6 @@ You can also use regular expressions to search for more complex patterns. For ex
 ```
 error[0-9]+
 ```
-
-I hope this helps!
 
 ## What's next?
 

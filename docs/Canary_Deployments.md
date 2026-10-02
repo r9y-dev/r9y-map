@@ -47,8 +47,6 @@ Canary deployments are a technique used in software development to gradually rel
 * [How to Do Canary Deployments Right](https://martinfowler.com/articles/canary-release.html)
 * [Canary Releases in Practice](https://blog.logrocket.com/canary-releases-in-practice/)
 
-I hope this helps!
-
 ## Related Terms
 
 Some related terms to Canary Deployments are:
@@ -60,8 +58,6 @@ Some related terms to Canary Deployments are:
 * **Disaster Recovery:** The process of recovering your system from a disaster, such as a hardware failure, natural disaster, or cyber attack. Disaster recovery plans help you to minimize downtime and data loss in the event of a disaster.
 
 These terms are all related to the concept of safely and reliably deploying and operating software applications.
-
-I hope this helps!
 
 ## Prerequisites
 
@@ -76,8 +72,6 @@ In addition to the above, you may also need to consider the following:
 
 * **Gradual rollout:** You may want to gradually increase the percentage of traffic that is routed to your canary environment over time. This can help to minimize the risk of disruption to your users.
 * **Blue/green deployment:** You may want to use a blue/green deployment strategy to deploy your canary environment. This will allow you to quickly and easily switch traffic from your blue environment (the old version of your application) to your green environment (the new version of your application).
-
-I hope this helps!
 
 ## What's next?
 

@@ -87,8 +87,6 @@ When choosing a unit testing tool, consider the following factors:
 - **Mutation testing:** A unit testing technique in which small changes (mutations) are made to the code and the tests are re-run to ensure that the mutations are detected.
 - **Property-based testing:** A unit testing technique in which properties of the code are defined and the tests are generated automatically to verify these properties.
 
-I hope this helps!
-
 ## Prerequisites
 
 Before you can do automated unit testing, you need to have the following in place:

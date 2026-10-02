@@ -23,8 +23,6 @@
 * **Improves safety culture:** A strong near miss detection program can help to improve safety culture by raising awareness of hazards and encouraging employees to report near misses.
 * **Provides valuable data:** Near miss data can be used to identify trends and patterns that can help to improve safety and prevent future accidents and incidents.
 
-For further clarification or inquiries, feel free to ask!
-
 ## Related Tools and Products
 
 **Tools and Products for Near Miss Detection:**
@@ -56,8 +54,6 @@ For further clarification or inquiries, feel free to ask!
 * OSHA's Near Miss Reporting Guidelines: https://www.osha.gov/SLTC/near_miss/index.html
 * NIOSH's Near Miss Reporting Toolkit: https://www.cdc.gov/niosh/topics/near-miss/
 
-For further clarification or inquiries, feel free to ask!
-
 ## Related Terms
 
 **Related Terms to Near Miss Detection:**
@@ -81,8 +77,6 @@ For further clarification or inquiries, feel free to ask!
 
 These terms are all related to the field of safety and accident prevention. By understanding these terms, you can better understand the importance of near miss detection and how it can be used to prevent accidents and incidents.
 
-For further clarification or inquiries, feel free to ask!
-
 ## Prerequisites
 
 Before you can implement a near miss detection program, you need to have the following in place:
@@ -101,8 +95,6 @@ In addition to these essential elements, there are a number of other things that
 
 By putting these elements in place, you can create a near miss detection program that is effective in preventing accidents and incidents.
 
-For further clarification or inquiries, feel free to ask!
-
 ## What's next?
 
 After you have implemented a near miss detection program, the next steps are to:
@@ -118,5 +110,3 @@ In addition to these essential steps, there are a number of other things that yo
 * **Involve employees in the program:** Employees should be involved in the development and implementation of the near miss detection program. This will help to ensure that the program is effective and that employees are invested in its success.
 
 By following these steps, you can create a near miss detection program that is effective in preventing accidents and incidents.
-
-For further clarification or inquiries, feel free to ask!
