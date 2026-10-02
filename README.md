@@ -2,6 +2,8 @@
 
 here's the map! <https://map.r9y.dev/beck/map.html>
 
+want to talk about just one part of it?  use the Lanes panel at the top of the map to hide swimlanes, or link straight to a focused view, eg <https://map.r9y.dev/beck/map.html?lanes=observability>
+
 and the docs: <https://map.r9y.dev/docs/>
 
 see something you want to fix?  want to contribute?:
