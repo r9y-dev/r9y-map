@@ -75,8 +75,6 @@ The choice of CI tool depends on the specific needs of the development team and 
 * [Continuous Integration Tools Comparison](https://www.g2.com/categories/continuous-integration-ci)
 * [Choosing the Right CI/CD Tool](https://www.infoq.com/articles/choosing-right-ci-cd-tool/)
 
-I hope this helps!
-
 ## Related Terms
 
 **Related terms to Continuous Integration:**
@@ -94,8 +92,6 @@ I hope this helps!
 * **Configuration Management:** The practice of managing and tracking changes to software configuration items (CIs). Configuration management helps to ensure that software is deployed and operated in a consistent and reliable manner.
 * **Release Management:** The process of planning, scheduling, and executing software releases. Release management helps to ensure that software is released in a controlled and orderly manner.
 * **Service Level Agreement (SLA):** A contract between a service provider and a customer that defines the level of service that the provider will provide. SLAs are used to ensure that customers receive the level of service that they expect.
-
-I hope this helps!
 
 ## Prerequisites
 
@@ -119,8 +115,6 @@ Here are some additional resources that you may find helpful:
 * [Continuous Integration Best Practices](https://www.atlassian.com/continuous-delivery/continuous-integration-best-practices/)
 * [How to Set Up Continuous Integration](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started-ci)
 * [Getting Started with Jenkins](https://jenkins.io/doc/book/getting-started/)
-
-I hope this helps!
 
 ## What's next?
 
@@ -148,5 +142,3 @@ In addition to CD, there are a number of other practices that you can adopt to i
 * **Code Reviews:** Code reviews are a process in which developers review each other's code. This can help to identify potential problems and improve the overall quality of the code.
 
 By adopting these practices, you can further improve the quality and reliability of your software development and delivery process.
-
-I hope this helps!

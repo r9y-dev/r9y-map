@@ -76,8 +76,6 @@ These tools and resources can help organizations to effectively plan, implement,
 
 These related terms are all part of the broader discipline of IT service management (ITSM), which is concerned with the planning, delivery, and support of IT services.
 
-I hope this helps! Let me know if you have any other questions.
-
 ## Prerequisites
 
 Before you can implement a change freeze, you need to have the following in place:
@@ -96,8 +94,6 @@ Additionally, it is important to consider the following factors when planning a 
 
 By carefully planning and preparing for a change freeze, you can minimize the risk of disruption to IT systems and services.
 
-I hope this helps! Let me know if you have any other questions.
-
 ## What's next?
 
 After you have implemented a change freeze, the next steps typically involve:
@@ -113,5 +109,3 @@ In addition to these steps, you may also need to consider the following:
 * **Communicating with stakeholders:** Throughout the change freeze process, it is important to keep all stakeholders informed of the status of the freeze and any changes to the plan. This will help to minimize disruption and ensure that everyone is on the same page.
 
 By following these steps, you can help to ensure that your change freeze is successful and that the system is restored to normal operation as quickly as possible.
-
-I hope this helps! Let me know if you have any other questions.

@@ -101,8 +101,6 @@ These tools and products can help organizations automate the patching process, e
 * Zero-Day Vulnerability: [https://www.cisa.gov/topics/cybersecurity/zero-day-vulnerabilities](https://www.cisa.gov/topics/cybersecurity/zero-day-vulnerabilities)
 * Windows as a Service (WaaS): [https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview)
 
-I hope this information is helpful!
-
 ## Prerequisites
 
 **Prerequisites for Patching Windows:**

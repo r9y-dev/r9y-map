@@ -72,8 +72,6 @@ By combining the principles of serious design and DDD, software developers can c
 * [Serious Design Book](https://rosenfeldmedia.com/books/serious-design/)
 * [DDD Podcast](https://www.infoq.com/podcasts/domain-driven-design-quickly/)
 
-I hope this is helpful!
-
 ## Related Terms
 
 **Related terms to Serious Design and Domain-Driven Design:**
@@ -97,8 +95,6 @@ I hope this is helpful!
 * **Microservices:** A software architecture style in which complex applications are composed of small, independent services.
 * **Agile development:** A software development methodology that emphasizes iterative development, team collaboration, and customer feedback.
 * **DevOps:** A set of practices and tools that enable software development and operations teams to work together more effectively.
-
-I hope this is helpful!
 
 ## Prerequisites
 

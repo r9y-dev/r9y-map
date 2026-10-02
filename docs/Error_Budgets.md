@@ -24,8 +24,6 @@
 
 * [Error Budgets: Definition and How to Use Them](https://sre.google/sre-book/error-budgets/)
 
-I hope this information is helpful!
-
 ## Related Tools and Products
 
 **Tools and Products for Error Budgets:**
@@ -59,8 +57,6 @@ I hope this information is helpful!
 * [Error Budgets: Definition and How to Use Them](https://sre.google/sre-book/error-budgets/)
 * [Error Budgets: A Practical Approach to Managing Risk](https://www.infoq.com/articles/error-budgets-risk-management/)
 
-I hope this information is helpful!
-
 ## Related Terms
 
 **Related Terms to Error Budgets:**
@@ -76,8 +72,6 @@ I hope this information is helpful!
 
 * [Error Budget vs SLO vs SLI: What's the Difference?](https://blog.logz.io/error-budget-vs-slo-vs-sli-whats-the-difference/)
 * [Chaos Engineering: A Definition and Overview](https://martinfowler.com/articles/chaos-engineering.html)
-
-I hope this information is helpful!
 
 ## Prerequisites
 
@@ -96,8 +90,6 @@ Here are some resources that you may find helpful:
 * [How to Set Error Budgets](https://landing.google.com/sre/error-budget-calculator/)
 * [Error Budget Calculator](https://landing.google.com/sre/error-budget-calculator/)
 
-I hope this information is helpful!
-
 ## What's next?
 
 After you have error budgets in place, you can start to use them to manage the reliability and availability of your system. Here are some steps you can take:
@@ -113,5 +105,3 @@ Additionally, you can use error budgets to:
 * **Prioritize incident response:** Error budgets can help you to prioritize incident response efforts. Incidents that are causing the most errors should be addressed first.
 * **Make trade-offs:** Error budgets can help you to make trade-offs between reliability and innovation. For example, you may be willing to accept a higher error budget for a new feature that is still under development.
 * **Communicate with stakeholders:** Error budgets can help you to communicate with stakeholders about the reliability and availability of your system.
-
-I hope this information is helpful!

@@ -54,8 +54,6 @@ Design for Chaos is a valuable approach for organizations that want to build res
 * Chaos Engineering Community: https://www.chaossociety.com/
 * Chaos Engineering Summit: https://www.chaossummit.io/
 
-I hope this helps!
-
 ## Related Terms
 
 **Related terms to Design for Chaos:**

@@ -67,8 +67,6 @@ A large software development company might use a waterfall project management ap
 * **PMBOK Guide:** The PMBOK Guide is a comprehensive guide to project management that is published by PMI.
 * **Waterfall vs. Agile Project Management:** A comparison of waterfall and agile project management methodologies from Harvard Business Review.
 
-I hope this helps!
-
 ## Related Terms
 
 **Related terms to Waterfall Projects and PMO:**
@@ -88,8 +86,6 @@ I hope this helps!
 * **Project schedule:** A project schedule is a timeline that shows when project tasks will be completed.
 * **Project budget:** A project budget is a financial plan that outlines the costs of a project.
 * **Project stakeholders:** Project stakeholders are individuals or groups who are affected by or have an interest in a project.
-
-I hope this helps!
 
 ## Prerequisites
 
@@ -115,8 +111,6 @@ Here are some additional tips for getting started with Waterfall Projects/PMO:
 * Get buy-in from stakeholders early on. This will help to ensure that everyone is on the same page and that the project has the support it needs to be successful.
 * Communicate regularly with stakeholders. Keep them informed of project progress and any changes to the plan.
 * Be flexible. Things don't always go according to plan, so be prepared to adjust your approach as needed.
-
-I hope this helps!
 
 ## What's next?
 

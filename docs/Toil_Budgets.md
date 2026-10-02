@@ -81,8 +81,6 @@ These terms are related to toil budgets in the sense that they all refer to the 
 * Cognitive Debt: https://blog.rescuetime.com/cognitive-debt/
 * Flow Debt: https://asana.com/resources/flow-debt
 
-I hope this helps!
-
 ## Prerequisites
 
 Before you can do toil budgets, you need to have the following in place:
@@ -98,8 +96,6 @@ In addition to the above, you also need to have a culture of continuous improvem
 
 * How to Create a Toil Budget: https://landing.google.com/sre/workbook/managing-toil.html
 * Toil Management Playbook: https://landing.google.com/sre/workbook/managing-toil.html
-
-I hope this helps!
 
 ## What's next?
 
@@ -117,5 +113,3 @@ By following these steps, you can use toil budgets to continuously improve the e
 
 * Toil Management Playbook: https://landing.google.com/sre/workbook/managing-toil.html
 * How to Use Toil Budgets to Improve Team Efficiency: https://www.blameless.com/blog/how-to-use-toil-budgets-to-improve-team-efficiency
-
-I hope this helps!

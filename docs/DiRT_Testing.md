@@ -42,8 +42,6 @@ DiRT testing tools generate random inputs to a program based on a set of rules. 
 * [DiRT: Directed Random Testing](https://en.wikipedia.org/wiki/DiRT_(software_testing))
 * [DiRT Testing: A Practical Guide](https://blog.regehr.org/archives/100)
 
-I hope this helps!
-
 ## Related Terms
 
 **Related Terms to DiRT Testing:**
@@ -59,8 +57,6 @@ I hope this helps!
 * **Software testing:** Software testing is the process of evaluating a software product to identify any errors, defects, or bugs.
 * **Software quality assurance:** Software quality assurance is the process of ensuring that a software product meets its quality requirements.
 * **Software reliability:** Software reliability is the ability of a software product to perform its intended function without failure.
-
-I hope this helps!
 
 ## Prerequisites
 
@@ -82,8 +78,6 @@ Here are some additional tips for DiRT testing:
 * Start with a small set of random inputs and gradually increase the size of the input set as you gain confidence in the software.
 * Use a variety of different random input generators to ensure that you are covering a wide range of possible scenarios.
 * Be patient. DiRT testing can be a time-consuming process, but it is worth it to find bugs that would be difficult to find with traditional testing methods.
-
-I hope this helps!
 
 ## What's next?
 
@@ -107,5 +101,3 @@ Here are some additional things to consider after DiRT testing:
 * **Use DiRT testing as part of a comprehensive software testing strategy.** DiRT testing is a powerful tool, but it is not a replacement for other types of software testing.
 * **Keep DiRT testing up-to-date.** As the software evolves, you should update your DiRT testing process to ensure that it is still effective.
 * **Share your DiRT testing results with other stakeholders.** This can help to improve the overall quality of the software product.
-
-I hope this helps!

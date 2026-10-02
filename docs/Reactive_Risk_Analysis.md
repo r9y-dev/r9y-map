@@ -50,8 +50,6 @@ Reactive risk analysis is an important tool for improving safety and reliability
 * [How to Conduct a Reactive Risk Analysis](https://www.safeopedia.com/risk-management/risk-analysis/reactive-risk-analysis/)
 * [Reactive Risk Analysis: A Framework for Improving Safety and Reliability](https://www.nap.edu/catalog/25353/reactive-risk-analysis-a-framework-for-improving-safety-and-reliability)
 
-I hope this information is helpful. Please let me know if you have any other questions.
-
 ## Related Terms
 
 **Related Terms to Reactive Risk Analysis:**
@@ -68,8 +66,6 @@ I hope this information is helpful. Please let me know if you have any other que
 * **Accident:** An incident that results in harm or damage.
 * **Hazard:** A potential source of harm or damage.
 * **Risk:** The likelihood and impact of harm or damage.
-
-I hope this information is helpful. Please let me know if you have any other questions.
 
 ## Prerequisites
 
@@ -95,8 +91,6 @@ Here are some additional tips for conducting reactive risk analysis:
 * **Be objective:** Reactive risk analysis should be objective and unbiased. This means that you should not let your personal opinions or biases influence your analysis.
 * **Be actionable:** Reactive risk analysis should be actionable. This means that you should develop recommendations for corrective actions that can be taken to prevent similar incidents or events from happening in the future.
 
-I hope this information is helpful. Please let me know if you have any other questions.
-
 ## What's next?
 
 After you have conducted reactive risk analysis, the next steps are to:
@@ -115,5 +109,3 @@ Here are some additional tips for following up on reactive risk analysis:
 * **Set deadlines for implementing the corrective actions.**
 * **Track the progress of the corrective actions and make adjustments as needed.**
 * **Communicate regularly with stakeholders about the status of the corrective actions.**
-
-I hope this information is helpful. Please let me know if you have any other questions.

@@ -57,8 +57,6 @@ Once a Protobuf message is defined, it can be used to generate code for a variet
 * [Protobuf Tutorial](https://developers.google.com/protocol-buffers/docs/tutorials)
 * [gRPC Tutorial](https://grpc.io/docs/tutorials/)
 
-I hope this list is helpful!
-
 ## Related Terms
 
 **Related terms to Protobuf:**
@@ -78,7 +76,7 @@ I hope this list is helpful!
 * **MessagePack:** MessagePack is a binary data serialization format that is designed to be compact and efficient. MessagePack is often used in web applications and mobile apps.
     * [MessagePack website](https://msgpack.org/)
 
-These are just a few of the many related terms to Protobuf. I hope this list is helpful!
+These are just a few of the many related terms to Protobuf.
 
 ## Prerequisites
 
@@ -103,8 +101,6 @@ Here are some specific steps you can take to get started with Protobuf:
 4. **Add the Protobuf parser and serializer library to your project:** You can find the Protobuf parser and serializer library for your programming language on the [Protobuf website](https://developers.google.com/protocol-buffers/).
 5. **Start using Protobuf to serialize and deserialize data:** You can now use the Protobuf parser and serializer library to read and write Protobuf messages in your applications.
 
-I hope this helps!
-
 ## What's next?
 
 After you have Protobuf in place, you can use it to serialize and deserialize data in your applications. This can be useful for a variety of purposes, such as:
@@ -118,5 +114,3 @@ Once you have started using Protobuf, you may find that you need to do the follo
 * **Manage your Protobuf IDL files:** As your project grows, you may need to manage multiple Protobuf IDL files. There are a number of tools available to help you with this, such as [Protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) and [Protolint](https://github.com/yoheimuta/protolint).
 * **Generate code for multiple programming languages:** If you are using Protobuf in a polyglot environment, you will need to generate code for multiple programming languages. There are a number of tools available to help you with this, such as the [Protobuf compiler](https://github.com/protocolbuffers/protobuf) and the [OpenAPI Generator](https://openapi-generator.tech/).
 * **Monitor your Protobuf usage:** It is important to monitor your Protobuf usage to ensure that you are using it efficiently. There are a number of tools available to help you with this, such as [gRPC metrics](https://grpc.io/docs/monitoring/) and [Prometheus](https://prometheus.io/).
-
-I hope this helps!

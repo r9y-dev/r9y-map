@@ -103,8 +103,6 @@ TODO lists can be created using a variety of tools, such as:
 * [American Society for Training and Development](https://www.td.org/)
 * [International Association of Project Managers](https://www.iapmp.org/)
 
-I hope this is helpful! Let me know if you have any other questions.
-
 ## Prerequisites
 
 Before you can effectively use TODO lists, you need to have a few things in place:
@@ -121,8 +119,6 @@ Before you can effectively use TODO lists, you need to have a few things in plac
 * **Be flexible:** Things don't always go according to plan. Be flexible and willing to adjust your TODO list as needed.
 * **Take breaks:** It's important to take breaks throughout the day, especially if you're feeling overwhelmed. Get up and move around, or take a few minutes to relax and clear your head.
 * **Reward yourself:** When you complete a task, take a moment to reward yourself. This will help you to stay motivated and make progress on your TODO list.
-
-I hope this helps!
 
 ## What's next?
 
@@ -141,5 +137,3 @@ After you have created your TODO list, the next steps are to:
 * **Don't be afraid to ask for help:** If you're struggling to complete a task, don't be afraid to ask for help from a friend, family member, or colleague.
 
 Once you have completed all of the tasks on your TODO list, you can reflect on your accomplishments and set new goals for yourself. You can then create a new TODO list to help you achieve your new goals.
-
-I hope this helps!

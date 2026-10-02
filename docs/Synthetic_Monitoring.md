@@ -70,8 +70,6 @@ Synthetic monitoring is a proactive monitoring technique that simulates real use
 * [The Importance of Synthetic Monitoring in Modern IT Environments](https://www.pingdom.com/blog/importance-synthetic-monitoring/)
 * [Synthetic Monitoring vs. Real User Monitoring: What's the Difference?](https://www.appdynamics.com/blog/engineering/synthetic-monitoring-vs-real-user-monitoring/)
 
-I hope this information is helpful!
-
 ## Related Terms
 
 **Related Terms to Synthetic Monitoring:**
@@ -87,8 +85,6 @@ I hope this information is helpful!
 * **Observability:** Observability is the ability to understand the internal state of a system or application based on its external outputs. Synthetic monitoring, RUM, APM, infrastructure monitoring, and log monitoring are all techniques that can be used to achieve observability.
 * **Monitoring as a Service (MaaS)**: MaaS is a cloud-based service that provides monitoring capabilities. MaaS providers typically offer a variety of monitoring tools and services, including synthetic monitoring, RUM, APM, infrastructure monitoring, and log monitoring.
 * **Synthetic Testing:** Synthetic testing is a type of performance testing that involves simulating real user interactions with a system or application. Synthetic testing can be used to identify performance issues and potential outages before they impact real users.
-
-I hope this information is helpful!
 
 ## Prerequisites
 
@@ -113,8 +109,6 @@ Here are some additional resources that you may find helpful:
 * [The Importance of Synthetic Monitoring in Modern IT Environments](https://www.pingdom.com/blog/importance-synthetic-monitoring/)
 * [Synthetic Monitoring vs. Real User Monitoring: What's the Difference?](https://www.appdynamics.com/blog/engineering/synthetic-monitoring-vs-real-user-monitoring/)
 
-I hope this information is helpful!
-
 ## What's next?
 
 After you have synthetic monitoring in place, there are a few things you can do to get the most value out of it:
@@ -137,5 +131,3 @@ Here are some additional resources that you may find helpful:
 * [How to Get the Most Value from Synthetic Monitoring](https://www.newrelic.com/blog/get-most-value-synthetic-monitoring)
 * [5 Ways to Use Synthetic Monitoring to Improve Your Application](https://www.appdynamics.com/blog/engineering/5-ways-use-synthetic-monitoring-improve-application/)
 * [Synthetic Monitoring Best Practices](https://docs.pingdom.com/synthetic-monitoring/guides/synthetic-monitoring-best-practices/)
-
-I hope this information is helpful!
