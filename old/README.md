@@ -365,6 +365,8 @@ type: post
 
 - [SMART_Goals](SMART_Goals.md)
 
+- [Company_strategy](Company_strategy.md)
+
 - [Goals_->_Objectives_OKRs_](Goals_->_Objectives_OKRs_.md)
 
 - [Architecture_Reviews](Architecture_Reviews.md)
