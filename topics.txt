@@ -87,9 +87,11 @@ N+1 Regional Planning
 L7 Global LB
 
 High Water Mark Prediction
+Immutable Infrastructure
 Assured Capacity Load Testing
 Real World Traffic Load Testing
 L4 Regional Load Balancing
+Production Launch Platform
 
 Multi Region
 
@@ -209,3 +211,4 @@ Basic Cost Optimisation
 Introducing Dedicated SREs
 Toil Budgets
 Decreased Reliance on 3rd party SaaS
+Self Driven Checklist Launches
