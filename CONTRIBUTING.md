@@ -20,8 +20,30 @@ We recommend making suggestions to a Pull Request to collaboratively fix problem
 * Try to provide rationalization for placement, especially in terms of which Era (how many 9s)
 * Fill in details in the accompanying file in `docs/`
 
-## Building a new Map
-* Currently this is done via a tool internal to google.com, so just ask Steve!
+## Changing the Map
+The map was first generated with a tool internal to google.com, but you do not need that tool to change it.
+
+`beck/map.html` is a static page. The `rows: [...]` list near the top of the file is the map's data, and each entry in it is one box on the map. Edit that list by hand and open a PR.
+
+To add a capability:
+
+1. Copy an existing entry from the same lane and era, and paste it where the new box should appear. Order matters: entries are drawn left to right, and a new line of boxes starts whenever an entry's `Level` is not higher than the entry before it.
+2. Set these fields and leave the others as they are:
+   * `Name`: the label shown on the map.
+   * `Section`: `<Lane>-<Era>`, eg `Observability-Reactive`. The lanes are Development, Infrastructure, Operations, Observability and People. The eras are Demo, Deterministic, Reactive, Proactive and Autonomic.
+   * `Level`: the column, from 1 to 15. Each era has three: Demo 1-3, Deterministic 4-6, Reactive 7-9, Proactive 10-12, Autonomic 13-15.
+   * `Type`: the icon. Each lane uses one: `Form` (Development), `VM` (Infrastructure), `Dashboard` (Operations), `Visualization` (Observability), `Timeline` (People).
+   * `MoreInfoLink`: `../docs/Your_Page.html`.
+   * `DirectConnections`: the `Name` of each capability this one leads to, separated by a comma and a space. Names must match exactly, including capital letters. A name that does not match is skipped without any error, and no line is drawn.
+3. Add the page as `docs/Your_Page.md`, starting from `empty_topic.md`, and add it to `docs/index.md`.
+
+To check your change, serve the repository with any static web server and open the map. Jekyll is only needed to preview the pages in `docs/`.
+
+```bash
+python3 -m http.server 4000
+```
+
+Then visit [http://localhost:4000/beck/map.html](http://localhost:4000/beck/map.html).
 
 ## Updating details in `docs/`
 * PRs are welcome from anyone!
